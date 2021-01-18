@@ -3,54 +3,22 @@ const ObjectId = require('mongodb').ObjectId
 const asyncLocalStorage = require('../../services/als.service')
 
 async function query(filterBy = {}) {
+    // const criteria = _buildCriteria(filterBy)
     try {
-        // const criteria = _buildCriteria(filterBy)
         const collection = await dbService.getCollection('board')
-        // const boards = await collection.find(criteria).toArray()
-        var boards = await collection.aggregate([
-            {
-                $match: filterBy
-            },
-            {
-                $lookup:
-                {
-                    from: 'user',
-                    localField: 'byUserId',
-                    foreignField: '_id',
-                    as: 'byUser'
-                }
-            },
-            {
-                $unwind: '$byUser'
-            },
-            {
-                $lookup:
-                {
-                    from: 'user',
-                    localField: 'aboutUserId',
-                    foreignField: '_id',
-                    as: 'aboutUser'
-                }
-            },
-            {
-                $unwind: '$aboutUser'
-            }
-        ]).toArray()
+        // var boards = await collection.find(criteria).toArray()
+        var boards = await collection.find().toArray()
         boards = boards.map(board => {
-            board.byUser = { _id: board.byUser._id, fullname: board.byUser.fullname }
-            board.aboutUser = { _id: board.aboutUser._id, fullname: board.aboutUser.fullname }
-            delete board.byUserId
-            delete board.aboutUserId
+            board.createdAt = ObjectId(board._id).getTimestamp()
             return board
         })
-
         return boards
     } catch (err) {
         logger.error('cannot find boards', err)
         throw err
     }
-
 }
+
 
 async function remove(boardId) {
     try {
@@ -86,8 +54,21 @@ async function add(board) {
     }
 }
 
+
 function _buildCriteria(filterBy) {
     const criteria = {}
+    if (filterBy.name) {
+        criteria.name = { $regex: filterBy.name, $options: 'i' }
+    }
+    if (filterBy.type) {
+        criteria.type = filterBy.type
+    }
+    if (filterBy.inStock) {
+        criteria.inStock = inStock
+    }
+    if (filterBy.price) {
+        criteria.price = { $gte: filterBy.price }
+    }
     return criteria
 }
 

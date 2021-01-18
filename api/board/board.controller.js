@@ -2,6 +2,19 @@ const logger = require('../../services/logger.service')
 const userService = require('../user/user.service')
 const boardService = require('./board.service')
 
+
+
+async function getBoard(req, res) {
+    try {
+        const board = await boardService.getById(req.params.boardId)
+        res.send(board)
+    } catch (err) {
+        logger.error('Failed to get board', err)
+        res.status(500).send({ err: 'Failed to get board' })
+    }
+}
+
+
 async function getBoards(req, res) {
     try {
         const boards = await boardService.query(req.query)
@@ -22,6 +35,18 @@ async function deleteBoard(req, res) {
     }
 }
 
+async function updateBoard(req, res) {
+    try {
+        const board = req.body
+        console.log('update board', req.session);
+        const savedBoard = await boardService.update(board)
+        res.send(savedBoard)
+    } catch (err) {
+        logger.error('Failed to update board', err)
+        res.status(500).send({ err: 'Failed to update board' })
+    }
+}
+
 
 async function addBoard(req, res) {
     try {
@@ -39,7 +64,9 @@ async function addBoard(req, res) {
 }
 
 module.exports = {
+    getBoard,
     getBoards,
     deleteBoard,
-    addBoard
+    addBoard,
+    updateBoard
 }
