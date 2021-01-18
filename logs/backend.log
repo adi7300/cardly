@@ -1,0 +1,696 @@
+12/20/2020, 1:58:10 AM - INFO - Server is running on port: 3030
+12/21/2020, 11:39:27 AM - INFO - Server is running on port: 3030
+12/21/2020, 11:40:09 AM - INFO - Server is running on port: 3030
+12/21/2020, 11:42:09 AM - INFO - Server is running on port: 3030
+12/21/2020, 11:46:39 AM - INFO - Server is running on port: 3030
+12/21/2020, 11:46:47 AM - INFO - Server is running on port: 3030
+12/21/2020, 11:47:19 AM - INFO - Server is running on port: 3030
+12/21/2020, 11:48:26 AM - DEBUG - auth.service - login with username: user1
+12/21/2020, 11:48:31 AM - INFO - Req from: Puki Norma
+12/21/2020, 11:51:24 AM - INFO - Server is running on port: 3030
+12/21/2020, 11:52:50 AM - INFO - Server is running on port: 3030
+12/21/2020, 11:53:19 AM - INFO - Server is running on port: 3030
+12/21/2020, 11:53:52 AM - INFO - Server is running on port: 3030
+12/21/2020, 11:54:05 AM - INFO - Server is running on port: 3030
+12/21/2020, 11:54:36 AM - INFO - Server is running on port: 3030
+12/21/2020, 11:56:20 AM - INFO - Server is running on port: 3030
+12/21/2020, 11:57:46 AM - INFO - Server is running on port: 3030
+12/21/2020, 11:57:48 AM - DEBUG - Topic! | Love
+12/21/2020, 11:57:48 AM - DEBUG - Msg! | {"from":"Puki Norma","txt":"ssss"}
+12/21/2020, 11:57:50 AM - DEBUG - Topic! | Love
+12/21/2020, 11:57:52 AM - DEBUG - Msg! | {"from":"Puki Norma","txt":"aaa"}
+12/21/2020, 11:57:55 AM - DEBUG - Msg! | {"from":"Puki Norma","txt":"sss"}
+12/21/2020, 11:58:23 AM - INFO - Server is running on port: 3030
+12/21/2020, 11:58:43 AM - INFO - Server is running on port: 3030
+12/21/2020, 12:23:14 PM - DEBUG - auth.service - login with username: user1
+12/21/2020, 12:25:30 PM - DEBUG - auth.service - login with username: user1
+12/21/2020, 12:25:32 PM - INFO - Req from: Puki Norma
+12/21/2020, 12:30:33 PM - INFO - Req from: Puki Norma
+12/21/2020, 12:30:35 PM - INFO - Req from: Puki Norma
+12/21/2020, 12:33:28 PM - INFO - Req from: Puki Norma
+12/21/2020, 12:36:15 PM - INFO - Req from: Puki Norma
+12/21/2020, 12:37:29 PM - INFO - Req from: Puki Norma
+12/21/2020, 12:37:31 PM - INFO - Req from: Puki Norma
+12/21/2020, 12:41:38 PM - INFO - Req from: Puki Norma
+12/21/2020, 12:41:58 PM - INFO - Req from: Puki Norma
+12/21/2020, 2:42:44 PM - DEBUG - auth.service - login with username: user1
+12/21/2020, 2:42:46 PM - INFO - Req from: Puki Norma
+12/21/2020, 2:48:42 PM - INFO - Req from: Puki Norma
+12/21/2020, 2:48:44 PM - INFO - Req from: Puki Norma
+12/21/2020, 2:50:17 PM - INFO - Req from: Puki Norma
+12/21/2020, 2:50:25 PM - INFO - Req from: Puki Norma
+12/21/2020, 2:59:58 PM - INFO - Server is running on port: 3030
+12/21/2020, 3:05:37 PM - INFO - Server is running on port: 3030
+12/21/2020, 3:08:20 PM - INFO - Server is running on port: 3030
+12/21/2020, 3:25:18 PM - INFO - Server is running on port: 3030
+12/21/2020, 3:25:24 PM - INFO - Server is running on port: 3030
+12/21/2020, 3:25:30 PM - INFO - Server is running on port: 3030
+12/21/2020, 3:26:40 PM - INFO - Server is running on port: 3030
+12/21/2020, 3:27:07 PM - INFO - Server is running on port: 3030
+12/21/2020, 3:27:54 PM - DEBUG - Session ID is | {"headers":{"host":"localhost:3030","connection":"keep-alive","accept":"*/*","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36","origin":"http://localhost:3000","sec-fetch-site":"same-site","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"http://localhost:3000/","accept-encoding":"gzip, deflate, br","accept-language":"en-US,en;q=0.9,he;q=0.8","cookie":"io=WmmSPegGGkpmIYRIAAAE; connect.sid=s%3ApZOW3LUn_3LlHS4NS7EaQ6OcfDJXgq6c.shTDEgDpTbDiPBAu8mUL%2BdJSjay1%2BNyb0JBd42Hr6ak"},"time":"Mon Dec 21 2020 15:27:54 GMT+0200 (Israel Standard Time)","address":"::1","xdomain":true,"secure":false,"issued":1608557274085,"url":"/socket.io/?EIO=3&transport=polling&t=NQ5V2FH","query":{"EIO":"3","transport":"polling","t":"NQ5V2FH"},"cookies":{"io":"WmmSPegGGkpmIYRIAAAE","connect.sid":"s:pZOW3LUn_3LlHS4NS7EaQ6OcfDJXgq6c.shTDEgDpTbDiPBAu8mUL+dJSjay1+Nyb0JBd42Hr6ak"},"signedCookies":{},"_parsedUrl":{"protocol":null,"slashes":null,"auth":null,"host":null,"port":null,"hostname":null,"hash":null,"search":"?EIO=3&transport=polling&t=NQ5V2FH","query":"EIO=3&transport=polling&t=NQ5V2FH","pathname":"/socket.io/","path":"/socket.io/?EIO=3&transport=polling&t=NQ5V2FH","href":"/socket.io/?EIO=3&transport=polling&t=NQ5V2FH","_raw":"/socket.io/?EIO=3&transport=polling&t=NQ5V2FH"},"sessionStore":{"_events":{},"_eventsCount":2,"sessions":{"PYZZ9H5GznpLMVpJlVL_Tbb4F1m7jx5g":"{\"cookie\":{\"originalMaxAge\":null,\"expires\":null,\"secure\":false,\"httpOnly\":true,\"path\":\"/\"}}","pZOW3LUn_3LlHS4NS7EaQ6OcfDJXgq6c":"{\"cookie\":{\"originalMaxAge\":null,\"expires\":null,\"secure\":false,\"httpOnly\":true,\"path\":\"/\"}}"}},"sessionID":"pZOW3LUn_3LlHS4NS7EaQ6OcfDJXgq6c","session":{"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"}}}
+12/21/2020, 3:28:20 PM - INFO - Server is running on port: 3030
+12/21/2020, 3:28:23 PM - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"}}
+12/21/2020, 3:28:37 PM - DEBUG - auth.service - login with username: user1
+12/21/2020, 3:28:38 PM - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"},"user":{"_id":"5fd41a4cc9e1452d38257350","username":"user1","fullname":"Puki Norma"}}
+12/21/2020, 3:28:42 PM - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"},"user":{"_id":"5fd41a4cc9e1452d38257350","username":"user1","fullname":"Puki Norma"}}
+12/21/2020, 3:31:07 PM - INFO - Server is running on port: 3030
+12/21/2020, 3:31:56 PM - INFO - Server is running on port: 3030
+12/21/2020, 3:32:03 PM - INFO - Server is running on port: 3030
+12/21/2020, 3:33:39 PM - INFO - Server is running on port: 3030
+12/21/2020, 3:35:28 PM - INFO - Server is running on port: 3030
+12/21/2020, 3:41:56 PM - INFO - Server is running on port: 3030
+12/21/2020, 3:42:08 PM - INFO - Server is running on port: 3030
+12/21/2020, 3:48:09 PM - INFO - Server is running on port: 3030
+12/21/2020, 3:49:40 PM - INFO - Server is running on port: 3030
+12/21/2020, 3:49:58 PM - INFO - Server is running on port: 3030
+12/21/2020, 3:51:40 PM - INFO - Server is running on port: 3030
+12/21/2020, 3:51:48 PM - INFO - Server is running on port: 3030
+12/21/2020, 3:53:23 PM - INFO - Server is running on port: 3030
+12/21/2020, 3:53:28 PM - DEBUG - res | {"result":{"n":1,"nModified":0,"ok":1},"connection":{"_events":{},"_eventsCount":4,"id":1,"address":"127.0.0.1:27017","bson":{},"socketTimeout":360000,"monitorCommands":false,"closed":false,"destroyed":false,"lastIsMasterMS":6},"modifiedCount":0,"upsertedId":null,"upsertedCount":0,"matchedCount":1,"n":1,"nModified":0,"ok":1}
+12/21/2020, 3:53:28 PM - ERROR - Failed to delete user | {}
+12/21/2020, 3:54:01 PM - INFO - Server is running on port: 3030
+12/21/2020, 3:54:32 PM - INFO - Server is running on port: 3030
+12/21/2020, 3:54:36 PM - DEBUG - res | {"result":{"n":1,"nModified":0,"ok":1},"connection":{"_events":{},"_eventsCount":4,"id":1,"address":"127.0.0.1:27017","bson":{},"socketTimeout":360000,"monitorCommands":false,"closed":false,"destroyed":false,"lastIsMasterMS":1},"modifiedCount":0,"upsertedId":null,"upsertedCount":0,"matchedCount":1,"n":1,"nModified":0,"ok":1}
+12/21/2020, 3:54:36 PM - ERROR - Failed to update user | {}
+12/21/2020, 3:56:20 PM - DEBUG - res | {"result":{"n":1,"nModified":0,"ok":1},"connection":{"_events":{},"_eventsCount":4,"id":1,"address":"127.0.0.1:27017","bson":{},"socketTimeout":360000,"monitorCommands":false,"closed":false,"destroyed":false,"lastIsMasterMS":1},"modifiedCount":0,"upsertedId":null,"upsertedCount":0,"matchedCount":1,"n":1,"nModified":0,"ok":1}
+12/21/2020, 3:56:20 PM - ERROR - Failed to update user | {}
+12/21/2020, 3:57:09 PM - INFO - Server is running on port: 3030
+12/21/2020, 3:57:10 PM - DEBUG - res | {"result":{"n":1,"nModified":0,"ok":1},"connection":{"_events":{},"_eventsCount":4,"id":1,"address":"127.0.0.1:27017","bson":{},"socketTimeout":360000,"monitorCommands":false,"closed":false,"destroyed":false,"lastIsMasterMS":3},"modifiedCount":0,"upsertedId":null,"upsertedCount":0,"matchedCount":1,"n":1,"nModified":0,"ok":1}
+12/21/2020, 3:57:36 PM - INFO - Server is running on port: 3030
+12/21/2020, 3:57:39 PM - DEBUG - res | {"result":{"n":1,"nModified":0,"ok":1},"connection":{"_events":{},"_eventsCount":4,"id":1,"address":"127.0.0.1:27017","bson":{},"socketTimeout":360000,"monitorCommands":false,"closed":false,"destroyed":false,"lastIsMasterMS":2},"modifiedCount":0,"upsertedId":null,"upsertedCount":0,"matchedCount":1,"n":1,"nModified":0,"ok":1}
+12/21/2020, 3:58:14 PM - DEBUG - res | {"result":{"n":1,"nModified":1,"ok":1},"connection":{"_events":{},"_eventsCount":4,"id":1,"address":"127.0.0.1:27017","bson":{},"socketTimeout":360000,"monitorCommands":false,"closed":false,"destroyed":false,"lastIsMasterMS":2},"modifiedCount":1,"upsertedId":null,"upsertedCount":0,"matchedCount":1,"n":1,"nModified":1,"ok":1}
+12/21/2020, 3:59:20 PM - INFO - Server is running on port: 3030
+12/27/2020, 2:04:47 PM - INFO - Server is running on port: 3030
+12/27/2020, 2:18:50 PM - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"}}
+12/27/2020, 2:23:53 PM - INFO - Server is running on port: 3030
+12/27/2020, 2:26:40 PM - INFO - Server is running on port: 3030
+12/27/2020, 2:26:44 PM - INFO - Server is running on port: 3030
+12/27/2020, 2:27:02 PM - INFO - Server is running on port: 3030
+12/27/2020, 2:28:04 PM - INFO - Server is running on port: 3030
+12/27/2020, 2:28:39 PM - INFO - Server is running on port: 3030
+12/27/2020, 2:28:56 PM - INFO - Server is running on port: 3030
+12/27/2020, 2:30:35 PM - INFO - Server is running on port: 3030
+12/27/2020, 2:32:52 PM - INFO - Server is running on port: 3030
+12/27/2020, 2:33:19 PM - INFO - Server is running on port: 3030
+12/27/2020, 2:34:05 PM - INFO - Server is running on port: 3030
+12/27/2020, 2:34:39 PM - INFO - Server is running on port: 3030
+12/27/2020, 2:49:41 PM - DEBUG - auth.service - login with username: user1
+28.12.2020, 15:22:26 - INFO - Server is running on port: 3030
+28.12.2020, 15:24:17 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"}}
+28.12.2020, 15:26:20 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"}}
+28.12.2020, 15:33:03 - DEBUG - auth.service - signup with username: user1, fullname: Puki Norma
+28.12.2020, 15:33:03 - DEBUG - auth.service - signup with username: admin, fullname: Master Adminov
+28.12.2020, 15:33:04 - DEBUG - auth.route - new account created: {"username":"user1","password":"$2b$10$AFAgK8xUkh9k/e2jj2nwTOCqBTWJr6A.bx6SopTK6ljqaLUt1HI4m","fullname":"Puki Norma","_id":"5fe9de9008cab92bec9bbcad"}
+28.12.2020, 15:33:04 - DEBUG - auth.service - login with username: user1
+28.12.2020, 15:33:04 - DEBUG - auth.route - new account created: {"username":"admin","password":"$2b$10$HcGFuH1ysTIrH8hf7jxmz.7dzCzl6x3MqvLrKYZQT1kayfAqsj402","fullname":"Master Adminov","_id":"5fe9de9008cab92bec9bbcae"}
+28.12.2020, 15:33:04 - DEBUG - auth.service - login with username: admin
+28.12.2020, 15:33:09 - DEBUG - auth.service - signup with username: user1, fullname: Puki Norma
+28.12.2020, 15:33:09 - DEBUG - auth.service - signup with username: admin, fullname: Master Adminov
+28.12.2020, 15:33:09 - DEBUG - auth.route - new account created: {"username":"user1","password":"$2b$10$um/ogds.gussSQnIJuVymup27AC5Fu9g6.HIB2YpXGO7Zxl8xa7mG","fullname":"Puki Norma","_id":"5fe9de9508cab92bec9bbcaf"}
+28.12.2020, 15:33:09 - DEBUG - auth.service - login with username: user1
+28.12.2020, 15:33:09 - DEBUG - auth.route - new account created: {"username":"admin","password":"$2b$10$tjKk7HeRmePhBhhpyB74qOyscxABhDFJmQpr3QdTo39QrZl/cl75a","fullname":"Master Adminov","_id":"5fe9de9508cab92bec9bbcb0"}
+28.12.2020, 15:33:09 - DEBUG - auth.service - login with username: admin
+28.12.2020, 15:33:20 - DEBUG - auth.service - signup with username: user1, fullname: Puki Norma
+28.12.2020, 15:33:20 - DEBUG - auth.route - new account created: {"username":"user1","password":"$2b$10$nIRw0b6lRmjEhw5x7UMKTuBQO2vO9brn8gO/N.28slPORcWMEzRuq","fullname":"Puki Norma","_id":"5fe9dea008cab92bec9bbcb1"}
+28.12.2020, 15:33:20 - DEBUG - auth.service - login with username: user1
+28.12.2020, 15:33:22 - DEBUG - auth.service - signup with username: user1, fullname: Puki Norma
+28.12.2020, 15:33:22 - DEBUG - auth.route - new account created: {"username":"user1","password":"$2b$10$6rwxdhKNyVcrK4MCFzQYBeKsdp9vBfO8brQ7QaXM1lSlryu1JQkua","fullname":"Puki Norma","_id":"5fe9dea208cab92bec9bbcb2"}
+28.12.2020, 15:33:22 - DEBUG - auth.service - login with username: user1
+28.12.2020, 15:36:18 - DEBUG - auth.service - signup with username: user1, fullname: Puki Norma
+28.12.2020, 15:36:19 - DEBUG - auth.route - new account created: {"username":"user1","password":"$2b$10$ZI1x8Qd2Y/VEOIbRIR3.2uVfEyo3L4EZutBwyEac4iZrVVl5mHLTW","fullname":"Puki Norma","_id":"5fe9df5308cab92bec9bbcb3"}
+28.12.2020, 15:36:19 - DEBUG - auth.service - login with username: user1
+28.12.2020, 15:36:24 - DEBUG - auth.service - signup with username: user1, fullname: Puki Norma
+28.12.2020, 15:36:24 - DEBUG - auth.route - new account created: {"username":"user1","password":"$2b$10$E0ywntmxtHQ5tKRXlUNzKuXaCK6Y9zurp8je8C2hYb9iKWQ.jmbL6","fullname":"Puki Norma","_id":"5fe9df5808cab92bec9bbcb4"}
+28.12.2020, 15:36:24 - DEBUG - auth.service - login with username: user1
+28.12.2020, 15:41:40 - DEBUG - auth.service - login with username: admin
+28.12.2020, 15:59:55 - DEBUG - auth.service - login with username: user1
+28.12.2020, 16:00:31 - INFO - Req from: Puki Norma
+28.12.2020, 16:00:34 - INFO - Req from: Puki Norma
+28.12.2020, 16:00:37 - INFO - Req from: Puki Norma
+28.12.2020, 16:00:39 - INFO - Req from: Puki Norma
+28.12.2020, 16:13:55 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"},"user":{"_id":"5fe9de9008cab92bec9bbcad","username":"user1","fullname":"Puki Norma"}}
+28.12.2020, 16:14:57 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"},"user":{"_id":"5fe9de9008cab92bec9bbcad","username":"user1","fullname":"Puki Norma"}}
+28.12.2020, 16:14:58 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"},"user":{"_id":"5fe9de9008cab92bec9bbcad","username":"user1","fullname":"Puki Norma"}}
+28.12.2020, 16:17:43 - INFO - Req from: Puki Norma
+28.12.2020, 16:23:57 - DEBUG - auth.service - login with username: user1
+28.12.2020, 16:24:08 - ERROR - Failed to get user | {}
+31.12.2020, 16:28:27 - INFO - Server is running on port: 3030
+31.12.2020, 16:29:13 - DEBUG - auth.service - login with username: user1
+31.12.2020, 16:29:26 - ERROR - Failed to get user | {}
+31.12.2020, 16:31:38 - ERROR - Failed to get user | {}
+31.12.2020, 16:32:05 - ERROR - Failed to get user | {}
+31.12.2020, 16:33:22 - ERROR - Failed to get user | {}
+31.12.2020, 16:33:40 - ERROR - Failed to get user | {}
+31.12.2020, 16:36:14 - INFO - Server is running on port: 3030
+31.12.2020, 16:37:07 - ERROR - Failed to get user | {}
+31.12.2020, 16:43:06 - INFO - Server is running on port: 3030
+31.12.2020, 16:45:59 - INFO - Server is running on port: 3030
+31.12.2020, 16:46:49 - INFO - Server is running on port: 3030
+31.12.2020, 16:48:59 - INFO - Server is running on port: 3030
+31.12.2020, 16:49:01 - DEBUG - auth.service - login with username: user1
+31.12.2020, 16:49:01 - INFO - Req from: Puki Norma
+31.12.2020, 16:53:54 - INFO - Req from: Puki Norma
+31.12.2020, 16:54:19 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"},"user":{"_id":"5fe9de9008cab92bec9bbcad","username":"user1","fullname":"Puki Norma"}}
+3.1.2021, 13:27:47 - INFO - Server is running on port: 3030
+3.1.2021, 13:43:49 - INFO - Server is running on port: 3030
+3.1.2021, 13:46:06 - INFO - Server is running on port: 3030
+3.1.2021, 13:46:10 - INFO - Server is running on port: 3030
+3.1.2021, 13:46:10 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"}}
+3.1.2021, 13:46:11 - INFO - Server is running on port: 3030
+3.1.2021, 13:46:13 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"}}
+3.1.2021, 13:47:17 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"}}
+3.1.2021, 13:47:19 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"}}
+3.1.2021, 13:48:50 - INFO - Server is running on port: 3030
+3.1.2021, 13:49:48 - INFO - Server is running on port: 3030
+3.1.2021, 13:50:06 - INFO - Server is running on port: 3030
+3.1.2021, 13:50:48 - INFO - Server is running on port: 3030
+3.1.2021, 13:51:55 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"}}
+3.1.2021, 13:52:02 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"}}
+3.1.2021, 13:52:13 - DEBUG - auth.service - login with username: user1
+3.1.2021, 13:52:15 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"},"user":{"_id":"5fe9de9008cab92bec9bbcad","username":"user1","fullname":"Puki Norma"}}
+3.1.2021, 13:52:22 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"},"user":{"_id":"5fe9de9008cab92bec9bbcad","username":"user1","fullname":"Puki Norma"}}
+3.1.2021, 13:52:37 - INFO - Req from: Puki Norma
+3.1.2021, 13:52:39 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"},"user":{"_id":"5fe9de9008cab92bec9bbcad","username":"user1","fullname":"Puki Norma"}}
+3.1.2021, 13:52:44 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"},"user":{"_id":"5fe9de9008cab92bec9bbcad","username":"user1","fullname":"Puki Norma"}}
+3.1.2021, 13:53:26 - INFO - Req from: Puki Norma
+3.1.2021, 13:54:11 - DEBUG - auth.service - login with username: admin
+3.1.2021, 13:54:12 - INFO - Req from: Master Adminov
+3.1.2021, 13:54:27 - INFO - Req from: Master Adminov
+4.1.2021, 10:35:29 - INFO - Req from: Master Adminov
+4.1.2021, 10:35:39 - INFO - Server is running on port: 3030
+4.1.2021, 10:36:07 - DEBUG - auth.service - login with username: user1
+4.1.2021, 10:36:08 - INFO - Req from: Puki Norma
+4.1.2021, 10:42:15 - INFO - Req from: Puki Norma
+4.1.2021, 10:42:55 - INFO - Req from: Puki Norma
+4.1.2021, 10:43:18 - INFO - Req from: Puki Norma
+4.1.2021, 10:44:10 - INFO - Req from: Puki Norma
+4.1.2021, 10:45:04 - INFO - Req from: Puki Norma
+4.1.2021, 10:45:06 - INFO - Req from: Puki Norma
+4.1.2021, 10:45:06 - ERROR - Failed to add review | {}
+4.1.2021, 10:45:06 - ERROR - Failed to add review | {}
+4.1.2021, 10:45:06 - ERROR - Failed to add review | {}
+4.1.2021, 10:45:06 - ERROR - Failed to add review | {}
+4.1.2021, 10:45:06 - ERROR - Failed to add review | {}
+4.1.2021, 10:45:06 - ERROR - Failed to add review | {}
+4.1.2021, 10:46:03 - INFO - Req from: Puki Norma
+4.1.2021, 10:46:03 - ERROR - Failed to delete review | {}
+4.1.2021, 10:46:03 - ERROR - Failed to delete review | {}
+4.1.2021, 10:46:03 - ERROR - Failed to delete review | {}
+4.1.2021, 10:47:01 - INFO - Req from: Puki Norma
+4.1.2021, 10:47:01 - ERROR - Failed to delete review | {}
+4.1.2021, 10:47:01 - ERROR - Failed to delete review | {}
+4.1.2021, 10:47:01 - ERROR - Failed to delete review | {}
+4.1.2021, 10:47:16 - DEBUG - auth.service - login with username: admin
+4.1.2021, 10:47:19 - ERROR - Failed to delete review | {}
+4.1.2021, 10:47:20 - ERROR - Failed to delete review | {}
+4.1.2021, 10:47:20 - ERROR - Failed to delete review | {}
+4.1.2021, 10:47:20 - INFO - Req from: Master Adminov
+4.1.2021, 10:47:20 - ERROR - Failed to delete review | {}
+4.1.2021, 10:47:20 - ERROR - Failed to delete review | {}
+4.1.2021, 10:47:20 - ERROR - Failed to delete review | {}
+4.1.2021, 10:47:20 - ERROR - Failed to delete review | {}
+4.1.2021, 10:47:20 - ERROR - Failed to delete review | {}
+4.1.2021, 10:47:20 - ERROR - Failed to delete review | {}
+4.1.2021, 10:47:30 - INFO - Req from: Master Adminov
+4.1.2021, 10:47:30 - ERROR - Failed to delete review | {}
+4.1.2021, 10:47:30 - ERROR - Failed to delete review | {}
+4.1.2021, 10:47:30 - ERROR - Failed to delete review | {}
+4.1.2021, 10:47:30 - ERROR - Failed to delete review | {}
+4.1.2021, 10:47:30 - ERROR - Failed to delete review | {}
+4.1.2021, 10:47:30 - ERROR - Failed to delete review | {}
+4.1.2021, 10:47:42 - INFO - Req from: Master Adminov
+4.1.2021, 10:47:42 - ERROR - Failed to delete review | {}
+4.1.2021, 10:47:42 - ERROR - Failed to delete review | {}
+4.1.2021, 10:47:42 - ERROR - Failed to delete review | {}
+4.1.2021, 10:47:44 - INFO - Req from: Master Adminov
+4.1.2021, 10:47:44 - ERROR - Failed to delete review | {}
+4.1.2021, 10:47:44 - ERROR - Failed to delete review | {}
+4.1.2021, 10:47:44 - ERROR - Failed to delete review | {}
+4.1.2021, 10:47:44 - INFO - Req from: Master Adminov
+4.1.2021, 10:47:44 - ERROR - Failed to delete review | {}
+4.1.2021, 10:47:44 - ERROR - Failed to delete review | {}
+4.1.2021, 10:47:44 - ERROR - Failed to delete review | {}
+4.1.2021, 10:48:29 - INFO - Req from: Master Adminov
+4.1.2021, 10:48:35 - ERROR - Failed to delete review | {}
+4.1.2021, 10:48:43 - DEBUG - auth.service - login with username: user1
+4.1.2021, 10:48:44 - INFO - Req from: Puki Norma
+4.1.2021, 10:48:48 - ERROR - Failed to delete review | {}
+4.1.2021, 10:49:36 - INFO - Server is running on port: 3030
+4.1.2021, 10:49:38 - INFO - Server is running on port: 3030
+4.1.2021, 10:50:23 - INFO - Server is running on port: 3030
+4.1.2021, 10:50:28 - INFO - Server is running on port: 3030
+4.1.2021, 10:51:04 - INFO - Server is running on port: 3030
+4.1.2021, 10:51:16 - INFO - Server is running on port: 3030
+4.1.2021, 10:51:50 - INFO - Server is running on port: 3030
+4.1.2021, 10:52:13 - DEBUG - auth.service - login with username: user1
+4.1.2021, 10:52:14 - INFO - Req from: Puki Norma
+4.1.2021, 10:52:18 - ERROR - Failed to delete review | {}
+4.1.2021, 10:52:42 - INFO - Server is running on port: 3030
+4.1.2021, 10:53:08 - DEBUG - auth.service - login with username: user1
+4.1.2021, 10:53:10 - INFO - Req from: Puki Norma
+4.1.2021, 10:53:12 - ERROR - Failed to delete review | {}
+4.1.2021, 10:54:05 - INFO - Server is running on port: 3030
+4.1.2021, 10:54:33 - DEBUG - auth.service - login with username: user1
+4.1.2021, 10:54:35 - INFO - Req from: Puki Norma
+4.1.2021, 10:54:40 - ERROR - Failed to delete review | {}
+4.1.2021, 10:55:02 - INFO - Server is running on port: 3030
+4.1.2021, 10:55:13 - DEBUG - auth.service - login with username: user1
+4.1.2021, 10:55:13 - INFO - Req from: Puki Norma
+4.1.2021, 10:55:17 - ERROR - Failed to delete review | {}
+4.1.2021, 10:57:06 - INFO - Server is running on port: 3030
+4.1.2021, 10:57:09 - INFO - Server is running on port: 3030
+4.1.2021, 10:57:19 - DEBUG - auth.service - login with username: user1
+4.1.2021, 10:57:21 - INFO - Req from: Puki Norma
+4.1.2021, 10:57:51 - INFO - Server is running on port: 3030
+4.1.2021, 10:58:14 - DEBUG - auth.service - login with username: user1
+4.1.2021, 10:58:15 - INFO - Req from: Puki Norma
+4.1.2021, 10:58:33 - INFO - Server is running on port: 3030
+4.1.2021, 10:58:43 - DEBUG - auth.service - login with username: admin
+4.1.2021, 10:58:44 - INFO - Req from: Master Adminov
+4.1.2021, 10:58:50 - INFO - Req from: Master Adminov
+4.1.2021, 10:59:08 - INFO - Req from: Master Adminov
+4.1.2021, 10:59:53 - INFO - Server is running on port: 3030
+4.1.2021, 11:00:03 - DEBUG - auth.service - login with username: admin
+4.1.2021, 11:00:05 - INFO - Req from: Master Adminov
+4.1.2021, 11:03:25 - INFO - Req from: Master Adminov
+4.1.2021, 11:03:39 - INFO - Req from: Master Adminov
+4.1.2021, 11:03:43 - INFO - Req from: Master Adminov
+4.1.2021, 11:03:46 - INFO - Req from: Master Adminov
+4.1.2021, 11:03:56 - INFO - Req from: Master Adminov
+4.1.2021, 11:04:19 - INFO - Req from: Master Adminov
+4.1.2021, 11:04:23 - DEBUG - auth.service - login with username: user1
+4.1.2021, 11:04:25 - INFO - Req from: Puki Norma
+4.1.2021, 11:04:36 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"}}
+4.1.2021, 11:04:58 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"}}
+4.1.2021, 11:05:05 - DEBUG - auth.service - login with username: admin
+4.1.2021, 11:05:06 - INFO - Req from: Master Adminov
+4.1.2021, 11:05:26 - INFO - Req from: Master Adminov
+4.1.2021, 11:05:30 - INFO - Req from: Master Adminov
+4.1.2021, 11:05:36 - INFO - Req from: Master Adminov
+4.1.2021, 11:05:39 - DEBUG - auth.service - login with username: admin
+4.1.2021, 11:05:40 - INFO - Req from: Master Adminov
+4.1.2021, 11:06:14 - INFO - Req from: Master Adminov
+4.1.2021, 11:06:30 - DEBUG - auth.service - login with username: user1
+4.1.2021, 11:06:31 - INFO - Req from: Puki Norma
+4.1.2021, 11:07:07 - INFO - Req from: Puki Norma
+4.1.2021, 11:07:12 - INFO - Req from: Puki Norma
+4.1.2021, 11:14:46 - INFO - Req from: Puki Norma
+4.1.2021, 11:18:18 - INFO - Req from: Puki Norma
+4.1.2021, 11:18:20 - INFO - Req from: Puki Norma
+4.1.2021, 11:18:27 - INFO - Req from: Puki Norma
+4.1.2021, 11:18:57 - INFO - Req from: Puki Norma
+4.1.2021, 11:20:43 - INFO - Server is running on port: 3030
+4.1.2021, 11:20:47 - INFO - Server is running on port: 3030
+4.1.2021, 11:21:45 - INFO - Server is running on port: 3030
+4.1.2021, 11:22:08 - INFO - Server is running on port: 3030
+4.1.2021, 11:22:09 - INFO - Server is running on port: 3030
+4.1.2021, 11:22:09 - INFO - Server is running on port: 3030
+4.1.2021, 11:22:38 - INFO - Server is running on port: 3030
+4.1.2021, 11:23:40 - INFO - Server is running on port: 3030
+4.1.2021, 11:23:43 - INFO - Server is running on port: 3030
+4.1.2021, 11:24:13 - INFO - Server is running on port: 3030
+4.1.2021, 11:24:19 - INFO - Server is running on port: 3030
+4.1.2021, 11:25:00 - INFO - Server is running on port: 3030
+4.1.2021, 11:25:03 - INFO - Server is running on port: 3030
+4.1.2021, 11:25:03 - INFO - Server is running on port: 3030
+4.1.2021, 11:25:58 - INFO - Server is running on port: 3030
+4.1.2021, 13:03:00 - DEBUG - auth.service - login with username: user1
+4.1.2021, 13:10:56 - INFO - Req from: Puki Norma
+4.1.2021, 13:11:22 - INFO - Server is running on port: 3030
+4.1.2021, 13:12:12 - DEBUG - auth.service - login with username: user1
+4.1.2021, 13:12:12 - INFO - Req from: Puki Norma
+4.1.2021, 13:12:22 - INFO - Req from: Puki Norma
+4.1.2021, 13:13:02 - INFO - Req from: Puki Norma
+4.1.2021, 13:13:07 - ERROR - Failed to add review | {}
+4.1.2021, 13:13:17 - INFO - Req from: Puki Norma
+4.1.2021, 13:13:20 - DEBUG - auth.service - login with username: user1
+4.1.2021, 13:13:21 - INFO - Req from: Puki Norma
+4.1.2021, 13:13:23 - ERROR - Failed to add review | {}
+4.1.2021, 13:13:37 - INFO - Req from: Puki Norma
+4.1.2021, 13:13:57 - DEBUG - auth.service - login with username: user1
+4.1.2021, 13:13:58 - INFO - Req from: Puki Norma
+4.1.2021, 13:14:05 - ERROR - Failed to add review | {}
+4.1.2021, 13:14:13 - INFO - Req from: Puki Norma
+4.1.2021, 13:14:15 - INFO - Req from: Puki Norma
+4.1.2021, 13:14:17 - ERROR - Failed to add review | {}
+4.1.2021, 13:14:35 - INFO - Server is running on port: 3030
+4.1.2021, 13:14:45 - DEBUG - auth.service - login with username: user1
+4.1.2021, 13:14:49 - INFO - Req from: Puki Norma
+4.1.2021, 13:15:03 - INFO - Req from: Puki Norma
+4.1.2021, 13:15:05 - INFO - Req from: Puki Norma
+4.1.2021, 13:15:11 - DEBUG - auth.service - login with username: user1
+4.1.2021, 13:15:13 - INFO - Req from: Puki Norma
+4.1.2021, 13:15:56 - INFO - Req from: Puki Norma
+4.1.2021, 13:16:28 - INFO - Server is running on port: 3030
+4.1.2021, 13:16:44 - DEBUG - auth.service - login with username: user1
+4.1.2021, 13:16:47 - INFO - Req from: Puki Norma
+4.1.2021, 13:16:52 - ERROR - Failed to add review | {}
+4.1.2021, 13:18:04 - INFO - Req from: Puki Norma
+4.1.2021, 13:18:19 - INFO - Req from: Puki Norma
+4.1.2021, 13:18:23 - DEBUG - auth.service - login with username: user1
+4.1.2021, 13:18:26 - INFO - Req from: Puki Norma
+4.1.2021, 13:19:17 - INFO - Req from: Puki Norma
+4.1.2021, 13:19:42 - INFO - Req from: Puki Norma
+4.1.2021, 13:19:45 - ERROR - Failed to add review | {}
+4.1.2021, 13:20:12 - INFO - Req from: Puki Norma
+4.1.2021, 13:20:18 - INFO - Req from: Puki Norma
+4.1.2021, 13:20:26 - INFO - Req from: Puki Norma
+4.1.2021, 13:20:36 - INFO - Req from: Puki Norma
+4.1.2021, 13:20:40 - INFO - Req from: Puki Norma
+4.1.2021, 13:20:50 - INFO - Req from: Puki Norma
+4.1.2021, 13:21:00 - DEBUG - auth.service - login with username: user1
+4.1.2021, 13:21:04 - INFO - Req from: Puki Norma
+4.1.2021, 13:21:19 - INFO - Req from: Puki Norma
+4.1.2021, 13:21:24 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"},"user":{"_id":"5fe9de9008cab92bec9bbcad","username":"user1","fullname":"Puki Norma","score":8}}
+4.1.2021, 13:21:25 - INFO - Req from: Puki Norma
+4.1.2021, 13:21:26 - INFO - Req from: Puki Norma
+4.1.2021, 13:21:41 - INFO - Req from: Puki Norma
+4.1.2021, 13:21:53 - INFO - Req from: Puki Norma
+4.1.2021, 13:22:20 - INFO - Req from: Puki Norma
+4.1.2021, 13:22:22 - ERROR - Failed to add review | {}
+4.1.2021, 13:22:32 - INFO - Req from: Puki Norma
+4.1.2021, 13:23:00 - INFO - Req from: Puki Norma
+4.1.2021, 13:23:03 - INFO - Req from: Puki Norma
+4.1.2021, 13:23:04 - INFO - Req from: Puki Norma
+4.1.2021, 13:23:26 - DEBUG - auth.service - login with username: user1
+4.1.2021, 13:26:33 - DEBUG - auth.service - login with username: user1
+4.1.2021, 13:26:36 - INFO - Req from: Puki Norma
+4.1.2021, 13:27:19 - INFO - Req from: Puki Norma
+4.1.2021, 13:28:07 - INFO - Req from: Puki Norma
+4.1.2021, 13:28:26 - INFO - Req from: Puki Norma
+4.1.2021, 13:30:26 - INFO - Req from: Puki Norma
+4.1.2021, 13:30:44 - DEBUG - auth.service - login with username: user1
+4.1.2021, 13:30:53 - INFO - Req from: Puki Norma
+4.1.2021, 13:31:06 - INFO - Req from: Puki Norma
+4.1.2021, 13:32:51 - DEBUG - auth.service - login with username: user1
+4.1.2021, 13:32:55 - INFO - Req from: Puki Norma
+4.1.2021, 13:34:44 - INFO - Req from: Puki Norma
+4.1.2021, 13:34:46 - INFO - Req from: Puki Norma
+4.1.2021, 13:34:53 - INFO - Req from: Puki Norma
+4.1.2021, 13:37:33 - INFO - Req from: Puki Norma
+4.1.2021, 13:40:47 - INFO - Server is running on port: 3030
+4.1.2021, 13:42:34 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"}}
+4.1.2021, 13:42:58 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"}}
+4.1.2021, 13:43:03 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"}}
+4.1.2021, 13:44:40 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"}}
+4.1.2021, 13:44:41 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"}}
+4.1.2021, 13:46:30 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"}}
+4.1.2021, 13:50:07 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"}}
+4.1.2021, 13:50:12 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"}}
+4.1.2021, 13:50:15 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"}}
+4.1.2021, 13:50:34 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"}}
+4.1.2021, 13:50:36 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"}}
+4.1.2021, 13:51:00 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"}}
+4.1.2021, 13:51:23 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"}}
+4.1.2021, 13:51:26 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"}}
+4.1.2021, 13:51:26 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"}}
+4.1.2021, 13:51:27 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"}}
+4.1.2021, 13:54:52 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"}}
+4.1.2021, 13:54:54 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"}}
+4.1.2021, 13:54:59 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"}}
+4.1.2021, 13:55:00 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"}}
+4.1.2021, 13:55:01 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"}}
+4.1.2021, 13:56:35 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"}}
+4.1.2021, 13:56:46 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"}}
+4.1.2021, 13:57:11 - INFO - Server is running on port: 3030
+4.1.2021, 13:57:19 - DEBUG - auth.service - login with username: user1
+4.1.2021, 13:57:20 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"},"user":{"_id":"5fe9de9008cab92bec9bbcad","username":"user1","fullname":"Puki Norma","score":6}}
+4.1.2021, 13:57:36 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"},"user":{"_id":"5fe9de9008cab92bec9bbcad","username":"user1","fullname":"Puki Norma","score":6}}
+4.1.2021, 13:58:02 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"},"user":{"_id":"5fe9de9008cab92bec9bbcad","username":"user1","fullname":"Puki Norma","score":6}}
+4.1.2021, 13:58:04 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"},"user":{"_id":"5fe9de9008cab92bec9bbcad","username":"user1","fullname":"Puki Norma","score":6}}
+4.1.2021, 13:58:07 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"},"user":{"_id":"5fe9de9008cab92bec9bbcad","username":"user1","fullname":"Puki Norma","score":6}}
+4.1.2021, 13:58:56 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"},"user":{"_id":"5fe9de9008cab92bec9bbcad","username":"user1","fullname":"Puki Norma","score":6}}
+4.1.2021, 13:59:16 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"},"user":{"_id":"5fe9de9008cab92bec9bbcad","username":"user1","fullname":"Puki Norma","score":6}}
+4.1.2021, 13:59:22 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"},"user":{"_id":"5fe9de9008cab92bec9bbcad","username":"user1","fullname":"Puki Norma","score":6}}
+4.1.2021, 14:01:11 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"},"user":{"_id":"5fe9de9008cab92bec9bbcad","username":"user1","fullname":"Puki Norma","score":6}}
+4.1.2021, 14:01:16 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"},"user":{"_id":"5fe9de9008cab92bec9bbcad","username":"user1","fullname":"Puki Norma","score":6}}
+4.1.2021, 14:37:06 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"},"user":{"_id":"5fe9de9008cab92bec9bbcad","username":"user1","fullname":"Puki Norma","score":6}}
+4.1.2021, 14:37:25 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"},"user":{"_id":"5fe9de9008cab92bec9bbcad","username":"user1","fullname":"Puki Norma","score":6}}
+4.1.2021, 14:37:42 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"},"user":{"_id":"5fe9de9008cab92bec9bbcad","username":"user1","fullname":"Puki Norma","score":6}}
+4.1.2021, 14:37:46 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"},"user":{"_id":"5fe9de9008cab92bec9bbcad","username":"user1","fullname":"Puki Norma","score":6}}
+4.1.2021, 14:38:21 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"},"user":{"_id":"5fe9de9008cab92bec9bbcad","username":"user1","fullname":"Puki Norma","score":6}}
+4.1.2021, 14:38:26 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"},"user":{"_id":"5fe9de9008cab92bec9bbcad","username":"user1","fullname":"Puki Norma","score":6}}
+4.1.2021, 14:38:45 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"},"user":{"_id":"5fe9de9008cab92bec9bbcad","username":"user1","fullname":"Puki Norma","score":6}}
+4.1.2021, 14:42:34 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"},"user":{"_id":"5fe9de9008cab92bec9bbcad","username":"user1","fullname":"Puki Norma","score":6}}
+4.1.2021, 14:42:38 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"},"user":{"_id":"5fe9de9008cab92bec9bbcad","username":"user1","fullname":"Puki Norma","score":6}}
+4.1.2021, 14:42:58 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"},"user":{"_id":"5fe9de9008cab92bec9bbcad","username":"user1","fullname":"Puki Norma","score":6}}
+4.1.2021, 14:44:13 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"},"user":{"_id":"5fe9de9008cab92bec9bbcad","username":"user1","fullname":"Puki Norma","score":6}}
+4.1.2021, 14:47:36 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"},"user":{"_id":"5fe9de9008cab92bec9bbcad","username":"user1","fullname":"Puki Norma","score":6}}
+4.1.2021, 14:48:15 - DEBUG - auth.service - login with username: user1
+4.1.2021, 14:48:17 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"},"user":{"_id":"5fe9de9008cab92bec9bbcad","username":"user1","fullname":"Puki Norma","score":6}}
+4.1.2021, 14:48:20 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"},"user":{"_id":"5fe9de9008cab92bec9bbcad","username":"user1","fullname":"Puki Norma","score":6}}
+4.1.2021, 14:48:45 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"},"user":{"_id":"5fe9de9008cab92bec9bbcad","username":"user1","fullname":"Puki Norma","score":6}}
+4.1.2021, 14:50:42 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"},"user":{"_id":"5fe9de9008cab92bec9bbcad","username":"user1","fullname":"Puki Norma","score":6}}
+4.1.2021, 14:51:22 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"},"user":{"_id":"5fe9de9008cab92bec9bbcad","username":"user1","fullname":"Puki Norma","score":6}}
+4.1.2021, 14:52:10 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"},"user":{"_id":"5fe9de9008cab92bec9bbcad","username":"user1","fullname":"Puki Norma","score":6}}
+4.1.2021, 14:53:17 - INFO - Server is running on port: 3030
+4.1.2021, 14:53:25 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"}}
+4.1.2021, 14:53:39 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"}}
+4.1.2021, 14:53:45 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"}}
+4.1.2021, 14:54:04 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"}}
+4.1.2021, 14:54:12 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"}}
+4.1.2021, 14:54:22 - INFO - Server is running on port: 3030
+4.1.2021, 14:54:42 - INFO - Server is running on port: 3030
+4.1.2021, 14:54:56 - INFO - Server is running on port: 3030
+4.1.2021, 14:55:07 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"}}
+4.1.2021, 14:55:09 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"}}
+4.1.2021, 14:55:23 - INFO - Server is running on port: 3030
+4.1.2021, 14:55:42 - INFO - Server is running on port: 3030
+4.1.2021, 14:55:53 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"}}
+4.1.2021, 14:56:42 - INFO - Server is running on port: 3030
+4.1.2021, 14:56:47 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"}}
+4.1.2021, 14:56:49 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"}}
+4.1.2021, 14:57:16 - INFO - Server is running on port: 3030
+4.1.2021, 14:57:16 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"}}
+4.1.2021, 14:57:28 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"}}
+4.1.2021, 14:57:34 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"}}
+4.1.2021, 14:57:37 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"}}
+4.1.2021, 14:57:52 - INFO - Server is running on port: 3030
+4.1.2021, 14:58:05 - INFO - Server is running on port: 3030
+4.1.2021, 14:58:06 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"}}
+4.1.2021, 14:58:11 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"}}
+4.1.2021, 14:58:16 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"}}
+4.1.2021, 14:58:29 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"}}
+4.1.2021, 14:58:30 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"}}
+4.1.2021, 14:58:40 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"}}
+4.1.2021, 14:58:41 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"}}
+4.1.2021, 14:58:43 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"}}
+4.1.2021, 14:58:44 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"}}
+4.1.2021, 14:58:55 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"}}
+4.1.2021, 14:58:57 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"}}
+4.1.2021, 14:59:01 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"}}
+4.1.2021, 14:59:03 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"}}
+4.1.2021, 15:01:08 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"}}
+4.1.2021, 15:01:09 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"}}
+4.1.2021, 15:03:09 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"}}
+4.1.2021, 15:03:09 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"}}
+4.1.2021, 15:03:17 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"}}
+4.1.2021, 15:03:35 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"}}
+4.1.2021, 15:03:46 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"}}
+4.1.2021, 15:03:50 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"}}
+4.1.2021, 15:04:07 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"}}
+4.1.2021, 15:05:10 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"}}
+4.1.2021, 15:05:20 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"}}
+4.1.2021, 15:05:58 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"}}
+4.1.2021, 15:06:26 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"}}
+4.1.2021, 15:06:38 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"}}
+4.1.2021, 15:07:15 - INFO - Server is running on port: 3030
+4.1.2021, 15:10:52 - DEBUG - auth.service - login with username: user1
+4.1.2021, 15:10:53 - INFO - Req from: Puki Norma
+4.1.2021, 15:11:40 - INFO - Req from: Puki Norma
+4.1.2021, 15:15:43 - INFO - Req from: Puki Norma
+4.1.2021, 15:42:46 - DEBUG - auth.service - login with username: user1
+4.1.2021, 15:42:46 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"},"user":{"_id":"5fe9de9008cab92bec9bbcad","username":"user1","fullname":"Puki Norma","score":8}}
+4.1.2021, 15:43:27 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"},"user":{"_id":"5fe9de9008cab92bec9bbcad","username":"user1","fullname":"Puki Norma","score":8}}
+4.1.2021, 15:43:43 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"},"user":{"_id":"5fe9de9008cab92bec9bbcad","username":"user1","fullname":"Puki Norma","score":8}}
+4.1.2021, 15:56:12 - DEBUG - auth.service - signup with username: fopp, fullname: foppy puka
+4.1.2021, 15:56:12 - DEBUG - auth.route - new account created: {"username":"fopp","password":"$2b$10$5aCLcisj.Jw7TRRAMt8zne5V/YXfBoxCF2PCsrPCvJKq6XYwaW7N6","fullname":"foppy puka","createdAt":1609768572204,"_id":"5ff31e7c2ca7a35550688a3f"}
+4.1.2021, 15:56:12 - DEBUG - auth.service - login with username: fopp
+4.1.2021, 20:18:23 - INFO - Server is running on port: 3030
+5.1.2021, 11:33:36 - INFO - Server is running on port: 3030
+5.1.2021, 11:34:31 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"}}
+5.1.2021, 11:39:15 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"}}
+5.1.2021, 11:39:59 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"}}
+5.1.2021, 11:40:09 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"}}
+5.1.2021, 12:08:12 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"}}
+5.1.2021, 12:16:18 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"}}
+5.1.2021, 12:16:45 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"}}
+5.1.2021, 12:17:29 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"}}
+5.1.2021, 12:17:43 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"}}
+5.1.2021, 12:18:11 - DEBUG - auth.service - login with username: user1
+5.1.2021, 12:18:13 - INFO - Req from: Puki Norma
+5.1.2021, 12:19:49 - DEBUG - auth.service - login with username: user1
+5.1.2021, 12:19:50 - INFO - Req from: Puki Norma
+5.1.2021, 12:22:14 - DEBUG - auth.service - login with username: user1
+5.1.2021, 12:22:14 - INFO - Req from: Puki Norma
+5.1.2021, 12:22:46 - DEBUG - auth.service - login with username: user1
+5.1.2021, 12:22:47 - INFO - Req from: Puki Norma
+5.1.2021, 12:31:48 - INFO - Req from: Puki Norma
+5.1.2021, 12:32:37 - INFO - Req from: Puki Norma
+5.1.2021, 12:32:38 - INFO - Req from: Puki Norma
+5.1.2021, 12:35:30 - INFO - Req from: Puki Norma
+5.1.2021, 12:36:45 - INFO - Req from: Puki Norma
+5.1.2021, 12:37:46 - INFO - Req from: Puki Norma
+5.1.2021, 12:41:19 - INFO - Req from: Puki Norma
+5.1.2021, 12:41:31 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"},"user":{"_id":"5fe9de9008cab92bec9bbcad","username":"user1","fullname":"Puki Norma","score":8}}
+5.1.2021, 12:42:11 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"},"user":{"_id":"5fe9de9008cab92bec9bbcad","username":"user1","fullname":"Puki Norma","score":8}}
+5.1.2021, 12:43:00 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"},"user":{"_id":"5fe9de9008cab92bec9bbcad","username":"user1","fullname":"Puki Norma","score":8}}
+5.1.2021, 12:45:57 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"},"user":{"_id":"5fe9de9008cab92bec9bbcad","username":"user1","fullname":"Puki Norma","score":8}}
+5.1.2021, 12:46:53 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"},"user":{"_id":"5fe9de9008cab92bec9bbcad","username":"user1","fullname":"Puki Norma","score":8}}
+5.1.2021, 12:47:49 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"},"user":{"_id":"5fe9de9008cab92bec9bbcad","username":"user1","fullname":"Puki Norma","score":8}}
+5.1.2021, 12:51:25 - INFO - Server is running on port: 3030
+5.1.2021, 12:53:37 - INFO - Server is running on port: 3030
+5.1.2021, 12:56:13 - INFO - Server is running on port: 3030
+5.1.2021, 12:57:14 - INFO - Server is running on port: 3030
+5.1.2021, 12:57:27 - DEBUG - Session ID is | {"cookie":{"originalMaxAge":null,"expires":null,"secure":false,"httpOnly":true,"path":"/"}}
+5.1.2021, 13:00:58 - INFO - Server is running on port: 3030
+5.1.2021, 13:01:01 - DEBUG - Session ID is | 087GIsa1uSY3hDfXuWaByM1KzJYrjacr
+5.1.2021, 13:01:16 - INFO - Server is running on port: 3030
+5.1.2021, 13:08:49 - INFO - Server is running on port: 3030 - undefined
+5.1.2021, 13:09:09 - INFO - Server is running on port: 3030 - 
+5.1.2021, 13:10:53 - DEBUG - auth.service - login with username: user1 - RVAzWxTjbL42rMvH1bO1wWfcQQ_0qYHw
+5.1.2021, 13:11:15 - INFO - Req from: Puki Norma - RVAzWxTjbL42rMvH1bO1wWfcQQ_0qYHw
+5.1.2021, 13:11:42 - INFO - Req from: Puki Norma - RVAzWxTjbL42rMvH1bO1wWfcQQ_0qYHw
+5.1.2021, 13:11:56 - INFO - Req from: Puki Norma - RVAzWxTjbL42rMvH1bO1wWfcQQ_0qYHw
+5.1.2021, 13:13:09 - ERROR - Failed to add review | {} - RVAzWxTjbL42rMvH1bO1wWfcQQ_0qYHw
+5.1.2021, 13:17:39 - INFO - Server is running on port: 3030 - 
+5.1.2021, 13:18:25 - ERROR - Failed to get users | {} - UGAY52uFYvQtl5MUwp15YmsBoBWxmErx
+5.1.2021, 13:18:29 - ERROR - Cannot get reviews | {} - UGAY52uFYvQtl5MUwp15YmsBoBWxmErx
+5.1.2021, 13:18:49 - ERROR - Failed to get users | {} - UGAY52uFYvQtl5MUwp15YmsBoBWxmErx
+5.1.2021, 13:18:51 - ERROR - Failed to get users | {} - UGAY52uFYvQtl5MUwp15YmsBoBWxmErx
+5.1.2021, 13:18:55 - ERROR - Failed to get users | {} - UGAY52uFYvQtl5MUwp15YmsBoBWxmErx
+5.1.2021, 13:18:56 - ERROR - Cannot get reviews | {} - UGAY52uFYvQtl5MUwp15YmsBoBWxmErx
+5.1.2021, 13:19:01 - ERROR - Failed to get users | {} - UGAY52uFYvQtl5MUwp15YmsBoBWxmErx
+5.1.2021, 13:19:04 - ERROR - Cannot get reviews | {} - UGAY52uFYvQtl5MUwp15YmsBoBWxmErx
+5.1.2021, 13:19:16 - ERROR - Cannot get reviews | {} - UGAY52uFYvQtl5MUwp15YmsBoBWxmErx
+5.1.2021, 13:19:16 - ERROR - Failed to get users | {} - UGAY52uFYvQtl5MUwp15YmsBoBWxmErx
+5.1.2021, 13:19:51 - ERROR - Cannot get reviews | {} - UGAY52uFYvQtl5MUwp15YmsBoBWxmErx
+5.1.2021, 13:19:51 - ERROR - Failed to get users | {} - UGAY52uFYvQtl5MUwp15YmsBoBWxmErx
+5.1.2021, 13:20:51 - INFO - Server is running on port: 3030 - 
+5.1.2021, 13:38:50 - INFO - Server is running on port: 3030 - 
+5.1.2021, 13:51:11 - INFO - Server is running on port: 3030 
+5.1.2021, 13:51:37 - INFO - Server is running on port: 3030 
+5.1.2021, 13:53:59 - DEBUG - auth.service - login with username: user1 -ep-Ow8izXAjV2bPN4uVb8AVhwYX1bsWG
+5.1.2021, 13:54:01 - INFO - Req from: Puki Norma -ep-Ow8izXAjV2bPN4uVb8AVhwYX1bsWG
+5.1.2021, 13:54:17 - INFO - Server is running on port: 3030 
+5.1.2021, 13:54:38 - DEBUG - auth.service - login with username: user1 - ICwXL_FEOZ6M5avH3d9Csap3YmFYQgSc
+5.1.2021, 13:54:43 - INFO - Req from: Puki Norma - ICwXL_FEOZ6M5avH3d9Csap3YmFYQgSc
+5.1.2021, 13:54:58 - INFO - Req from: Puki Norma - ICwXL_FEOZ6M5avH3d9Csap3YmFYQgSc
+5.1.2021, 13:55:02 - ERROR - Failed to add review | {} - ICwXL_FEOZ6M5avH3d9Csap3YmFYQgSc
+5.1.2021, 13:57:32 - INFO - Req from: Puki Norma - ICwXL_FEOZ6M5avH3d9Csap3YmFYQgSc
+5.1.2021, 13:57:40 - INFO - Req from: Puki Norma - ICwXL_FEOZ6M5avH3d9Csap3YmFYQgSc
+5.1.2021, 13:57:43 - ERROR - Failed to add review | {} - ICwXL_FEOZ6M5avH3d9Csap3YmFYQgSc
+5.1.2021, 13:58:01 - INFO - Req from: Puki Norma - ICwXL_FEOZ6M5avH3d9Csap3YmFYQgSc
+5.1.2021, 13:58:12 - INFO - Req from: Puki Norma - ICwXL_FEOZ6M5avH3d9Csap3YmFYQgSc
+5.1.2021, 13:59:02 - INFO - Req from: Puki Norma - ICwXL_FEOZ6M5avH3d9Csap3YmFYQgSc
+5.1.2021, 13:59:14 - ERROR - Failed to add review | {} - ICwXL_FEOZ6M5avH3d9Csap3YmFYQgSc
+5.1.2021, 13:59:38 - INFO - Req from: Puki Norma - ICwXL_FEOZ6M5avH3d9Csap3YmFYQgSc
+5.1.2021, 13:59:58 - INFO - Req from: Puki Norma - ICwXL_FEOZ6M5avH3d9Csap3YmFYQgSc
+5.1.2021, 14:02:02 - INFO - Req from: Puki Norma - ICwXL_FEOZ6M5avH3d9Csap3YmFYQgSc
+5.1.2021, 14:20:38 - INFO - Req from: Puki Norma - ICwXL_FEOZ6M5avH3d9Csap3YmFYQgSc
+5.1.2021, 14:22:37 - INFO - Server is running on port: 3030 
+5.1.2021, 14:22:46 - INFO - Server is running on port: 3030 
+5.1.2021, 14:23:09 - INFO - Server is running on port: 3030 
+5.1.2021, 14:23:13 - INFO - Server is running on port: 3030 
+5.1.2021, 14:23:46 - DEBUG - auth.service - login with username: user1 - hb7oIZRhE6YqXo-3tr0TW0TiqbasGXxl
+5.1.2021, 14:23:48 - INFO - Req from: Puki Norma - hb7oIZRhE6YqXo-3tr0TW0TiqbasGXxl
+5.1.2021, 14:23:50 - ERROR - Failed to add review | {} - hb7oIZRhE6YqXo-3tr0TW0TiqbasGXxl
+5.1.2021, 14:25:19 - INFO - Server is running on port: 3030 
+5.1.2021, 14:25:34 - DEBUG - auth.service - login with username: user1 - c51PycNp7RPNZEmwV8ypGcfAKDhp4cZq
+5.1.2021, 14:25:36 - INFO - Req from: Puki Norma - c51PycNp7RPNZEmwV8ypGcfAKDhp4cZq
+5.1.2021, 14:25:39 - INFO - Req from: Puki Norma - c51PycNp7RPNZEmwV8ypGcfAKDhp4cZq
+5.1.2021, 14:25:40 - ERROR - Failed to add review | {} - c51PycNp7RPNZEmwV8ypGcfAKDhp4cZq
+5.1.2021, 14:28:27 - INFO - Req from: Puki Norma - c51PycNp7RPNZEmwV8ypGcfAKDhp4cZq
+5.1.2021, 14:28:34 - ERROR - Failed to add review | {} - c51PycNp7RPNZEmwV8ypGcfAKDhp4cZq
+5.1.2021, 14:28:49 - INFO - Req from: Puki Norma - c51PycNp7RPNZEmwV8ypGcfAKDhp4cZq
+5.1.2021, 14:31:40 - INFO - Req from: Puki Norma - c51PycNp7RPNZEmwV8ypGcfAKDhp4cZq
+5.1.2021, 14:34:13 - INFO - Server is running on port: 3030 
+5.1.2021, 14:35:46 - INFO - Server is running on port: 3030 
+5.1.2021, 14:35:53 - DEBUG - auth.service - login with username: user1 (sid: M__KTdMDjJlbjADVBLeyVJref4pZ9Wjw)
+5.1.2021, 14:38:24 - INFO - Server is running on port: 3030 
+5.1.2021, 14:38:30 - DEBUG - auth.service - login with username: user1 (sid: 8AMUniFUvGDtlMJK2g2ciXOBcd5wXV2_)
+5.1.2021, 14:39:28 - DEBUG - auth.service - login with username: user1 (sid: M6xBrU10xUce8i-B6lPLoHPxJ_CJzKAu)
+5.1.2021, 14:39:28 - INFO - Req from: Puki Norma (sid: M6xBrU10xUce8i-B6lPLoHPxJ_CJzKAu)
+5.1.2021, 14:40:51 - INFO - Req from: Puki Norma (sid: M6xBrU10xUce8i-B6lPLoHPxJ_CJzKAu)
+5.1.2021, 14:41:56 - INFO - Server is running on port: 3030 
+5.1.2021, 14:56:16 - INFO - Server is running on port: 3030 
+5.1.2021, 14:56:20 - INFO - Server is running on port: 3030 
+5.1.2021, 14:56:27 - INFO - Server is running on port: 3030 
+5.1.2021, 14:56:32 - INFO - Server is running on port: 3030 
+5.1.2021, 14:56:43 - INFO - Server is running on port: 3030 
+5.1.2021, 14:57:41 - INFO - Server is running on port: 3030 
+5.1.2021, 14:58:24 - INFO - Server is running on port: 3030 
+5.1.2021, 14:58:31 - INFO - Server is running on port: 3030 
+5.1.2021, 14:59:16 - INFO - Server is running on port: 3030 
+5.1.2021, 14:59:32 - INFO - Server is running on port: 3030 
+5.1.2021, 15:00:32 - INFO - Server is running on port: 3030 
+5.1.2021, 15:00:34 - INFO - Server is running on port: 3030 
+5.1.2021, 15:00:51 - DEBUG - auth.service - login with username: user1 (sid: GKc8ZKXSApZbtukRE_AO-yp8xmmiOWyE)
+5.1.2021, 15:00:51 - INFO - Req from: Puki Norma (sid: GKc8ZKXSApZbtukRE_AO-yp8xmmiOWyE)
+5.1.2021, 15:02:48 - INFO - Server is running on port: 3030 
+5.1.2021, 15:04:34 - INFO - Server is running on port: 3030 
+5.1.2021, 15:04:56 - DEBUG - auth.service - login with username: user1 (sid: LoM6f2gJIYbZrMOri5lxiVHlifPkrWkl)
+5.1.2021, 15:04:58 - INFO - Req from: Puki Norma (sid: LoM6f2gJIYbZrMOri5lxiVHlifPkrWkl)
+5.1.2021, 15:05:42 - INFO - Req from: Puki Norma (sid: LoM6f2gJIYbZrMOri5lxiVHlifPkrWkl)
+5.1.2021, 15:06:00 - DEBUG - auth.service - login with username: user1 (sid: g8iGWfwpshDjB6TZqzc7kp0vBroSyNkT)
+5.1.2021, 15:06:02 - INFO - Req from: Puki Norma (sid: g8iGWfwpshDjB6TZqzc7kp0vBroSyNkT)
+5.1.2021, 15:06:41 - INFO - Server is running on port: 3030 
+5.1.2021, 15:06:43 - INFO - Server is running on port: 3030 
+5.1.2021, 15:06:49 - INFO - Server is running on port: 3030 
+5.1.2021, 15:06:57 - DEBUG - auth.service - login with username: user1 (sid: 9Vlbb5Vo0XEum3ncG6XD7J5PaPLAmNdO)
+5.1.2021, 15:06:59 - INFO - Req from: Puki Norma (sid: 9Vlbb5Vo0XEum3ncG6XD7J5PaPLAmNdO)
+5.1.2021, 15:08:13 - INFO - Req from: Puki Norma (sid: 9Vlbb5Vo0XEum3ncG6XD7J5PaPLAmNdO)
+5.1.2021, 15:08:18 - DEBUG - auth.service - login with username: user1 (sid: uIy1sZGKgLoZDpIkkV4Fgoze4N5fuUmP)
+6.1.2021, 13:43:40 - INFO - Server is running on port: 3030 
+6.1.2021, 13:45:22 - DEBUG - auth.service - login with username: user1 (sid: iejGLtyxpP8MHcrK-Dhy3vx1lyjknvY-)
+6.1.2021, 13:46:04 - INFO - Req from: Puki Norma (sid: iejGLtyxpP8MHcrK-Dhy3vx1lyjknvY-)
+6.1.2021, 13:46:09 - INFO - Req from: Puki Norma (sid: iejGLtyxpP8MHcrK-Dhy3vx1lyjknvY-)
+6.1.2021, 13:46:18 - INFO - Req from: Puki Norma (sid: iejGLtyxpP8MHcrK-Dhy3vx1lyjknvY-)
+6.1.2021, 13:47:20 - INFO - Req from: Puki Norma (sid: iejGLtyxpP8MHcrK-Dhy3vx1lyjknvY-)
+6.1.2021, 13:47:27 - INFO - Req from: Puki Norma (sid: iejGLtyxpP8MHcrK-Dhy3vx1lyjknvY-)
+6.1.2021, 13:47:34 - INFO - Req from: Puki Norma (sid: iejGLtyxpP8MHcrK-Dhy3vx1lyjknvY-)
+6.1.2021, 13:48:29 - INFO - Req from: Puki Norma (sid: iejGLtyxpP8MHcrK-Dhy3vx1lyjknvY-)
+6.1.2021, 13:52:01 - INFO - Req from: Puki Norma (sid: iejGLtyxpP8MHcrK-Dhy3vx1lyjknvY-)
+6.1.2021, 13:55:21 - INFO - Req from: Puki Norma (sid: iejGLtyxpP8MHcrK-Dhy3vx1lyjknvY-)
+6.1.2021, 18:03:01 - INFO - Server is running on port: 3030 
+6.1.2021, 19:33:39 - INFO - Server is running on port: 3030 
+6.1.2021, 19:33:58 - INFO - Server is running on port: 3030 
+6.1.2021, 19:43:08 - INFO - Server is running on port: 3030 
+6.1.2021, 19:43:12 - INFO - Server is running on port: 3030 
+6.1.2021, 19:48:26 - INFO - Server is running on port: 3030 
+6.1.2021, 19:48:35 - INFO - Server is running on port: 3030 
+6.1.2021, 19:48:39 - INFO - Server is running on port: 3030 
+6.1.2021, 19:51:58 - INFO - Server is running on port: 3030 
+6.1.2021, 19:53:35 - INFO - Server is running on port: 3030 
+6.1.2021, 20:11:25 - DEBUG - auth.service - login with username: user1 (sid: DzrchjI5ZFcvljzpMnyj3xVDBQAeM_JT)
+6.1.2021, 20:11:26 - INFO - Req from: Puki Norma (sid: DzrchjI5ZFcvljzpMnyj3xVDBQAeM_JT)
+6.1.2021, 20:14:41 - INFO - Req from: Puki Norma (sid: DzrchjI5ZFcvljzpMnyj3xVDBQAeM_JT)
+6.1.2021, 20:14:57 - INFO - Req from: Puki Norma (sid: DzrchjI5ZFcvljzpMnyj3xVDBQAeM_JT)
+6.1.2021, 20:21:20 - INFO - Server is running on port: 3030 
+6.1.2021, 20:22:49 - DEBUG - auth.service - login with username: user1 (sid: 07fyRPnNi4cZArCjaKrSRVQd_Gjs0mwO)
+7.1.2021, 13:33:09 - INFO - Server is running on port: 3030 
+7.1.2021, 13:33:38 - DEBUG - auth.service - login with username: fopp (sid: ZVpStOcI6C8ziJBg3quQTZdE1Rlc5r6D)
+7.1.2021, 13:33:39 - INFO - Req from: foppy puka (sid: ZVpStOcI6C8ziJBg3quQTZdE1Rlc5r6D)
+9.1.2021, 11:59:39 - INFO - Server is running on port: 3030 
+9.1.2021, 12:00:09 - DEBUG - auth.service - login with username: fopp (sid: XA7IBAaPF1F-dg3KUiCFkNSulNc1sUa9)
+9.1.2021, 12:00:17 - INFO - Req from: foppy puka (sid: XA7IBAaPF1F-dg3KUiCFkNSulNc1sUa9)
+9.1.2021, 12:00:34 - INFO - Server is running on port: 3030 
+9.1.2021, 12:00:54 - DEBUG - auth.service - login with username: user1 (sid: J5WKFjgai9hhi4-ieRFAk-TyrnOGawKh)
+9.1.2021, 12:00:54 - INFO - Req from: Puki Norma (sid: J5WKFjgai9hhi4-ieRFAk-TyrnOGawKh)
+9.1.2021, 12:01:23 - INFO - Server is running on port: 3030 
+9.1.2021, 12:01:32 - DEBUG - auth.service - login with username: admin (sid: nRfS03Li2Mbnshb3GYCxeHp_E30O1L8o)
+9.1.2021, 12:01:33 - INFO - Req from: Master Adminov (sid: nRfS03Li2Mbnshb3GYCxeHp_E30O1L8o)
+9.1.2021, 14:57:11 - INFO - Server is running on port: 3030 
+9.1.2021, 14:58:20 - DEBUG - auth.service - login with username: admin (sid: mGHCKW9Z-o6meeau3gnSDOpgmV3j0mnl)
+9.1.2021, 14:58:22 - INFO - Req from: Master Adminov (sid: mGHCKW9Z-o6meeau3gnSDOpgmV3j0mnl)
+9.1.2021, 15:00:55 - INFO - Req from: Master Adminov (sid: mGHCKW9Z-o6meeau3gnSDOpgmV3j0mnl)
+9.1.2021, 15:03:22 - INFO - Server is running on port: 3030 
+9.1.2021, 15:04:25 - INFO - Server is running on port: 3030 
+9.1.2021, 15:04:51 - INFO - Server is running on port: 3030 
+9.1.2021, 15:10:16 - INFO - Server is running on port: 3030 
+9.1.2021, 15:12:00 - DEBUG - auth.service - signup with username: Liel11, fullname: Liel (sid: 8oIha5ikYZdEBy3E7bdvkxKIq2ASJAsZ)
+9.1.2021, 15:12:00 - DEBUG - auth.route - new account created: {"username":"Liel11","password":"$2b$10$eE.J3ux2oWCOALq5oSAMVehiuavXyXA3DZPDxD2GhOYstYJB1tniC","fullname":"Liel","score":0,"_id":"5ff9aba0d8ae4733700c7d60"} (sid: 8oIha5ikYZdEBy3E7bdvkxKIq2ASJAsZ)
+9.1.2021, 15:12:00 - DEBUG - auth.service - login with username: Liel11 (sid: 8oIha5ikYZdEBy3E7bdvkxKIq2ASJAsZ)
+9.1.2021, 15:12:04 - INFO - Req from: Liel (sid: 8oIha5ikYZdEBy3E7bdvkxKIq2ASJAsZ)
+9.1.2021, 15:13:12 - INFO - Req from: Liel (sid: 8oIha5ikYZdEBy3E7bdvkxKIq2ASJAsZ)
+9.1.2021, 15:13:17 - INFO - Req from: Liel (sid: 8oIha5ikYZdEBy3E7bdvkxKIq2ASJAsZ)
