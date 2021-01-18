@@ -711,3 +711,56 @@
 18.1.2021, 14:37:11 - INFO - Server is running on port: 3030 
 18.1.2021, 14:37:22 - ERROR - Failed to update board | {} (sid: Zi0hmdqmobf9pnIjFwMw1gieqmw2F3_9)
 18.1.2021, 14:37:50 - INFO - Server is running on port: 3030 
+18.1.2021, 15:14:23 - INFO - Server is running on port: 3030 
+18.1.2021, 19:06:46 - DEBUG - auth.service - login with username: mosh (sid: S68QudzmVftZEsDg4f5NxjodT0K-UUPR)
+18.1.2021, 19:06:46 - ERROR - Failed to Login Invalid username or password (sid: S68QudzmVftZEsDg4f5NxjodT0K-UUPR)
+18.1.2021, 19:07:20 - DEBUG - auth.service - login with username: mmts12@gmail.com (sid: S68QudzmVftZEsDg4f5NxjodT0K-UUPR)
+18.1.2021, 19:07:20 - INFO - Req from: Mosh Malka (sid: S68QudzmVftZEsDg4f5NxjodT0K-UUPR)
+18.1.2021, 19:08:04 - INFO - Req from: Mosh Malka (sid: S68QudzmVftZEsDg4f5NxjodT0K-UUPR)
+18.1.2021, 19:08:04 - INFO - Req from: Mosh Malka (sid: S68QudzmVftZEsDg4f5NxjodT0K-UUPR)
+18.1.2021, 19:08:53 - INFO - Server is running on port: 3030 
+18.1.2021, 19:08:54 - INFO - Server is running on port: 3030 
+18.1.2021, 19:09:19 - DEBUG - auth.service - login with username: mmts12@gmail.com (sid: QQX_jix9y3utjAGB5FMAMtu79nLEEzUk)
+18.1.2021, 19:09:44 - DEBUG - auth.service - login with username: shahar (sid: QQX_jix9y3utjAGB5FMAMtu79nLEEzUk)
+18.1.2021, 19:09:44 - ERROR - Failed to Login Invalid username or password (sid: QQX_jix9y3utjAGB5FMAMtu79nLEEzUk)
+18.1.2021, 19:24:10 - INFO - Server is running on port: 3030 
+18.1.2021, 19:25:24 - DEBUG - auth.service - login with username: mm (sid: -iXAE1DOyKJwEHoZ_bD0dDg3XvjT14Ka)
+18.1.2021, 19:25:26 - ERROR - Failed to Login Invalid username or password (sid: -iXAE1DOyKJwEHoZ_bD0dDg3XvjT14Ka)
+18.1.2021, 19:25:41 - DEBUG - auth.service - login with username: mmts12@gmail.com (sid: -iXAE1DOyKJwEHoZ_bD0dDg3XvjT14Ka)
+18.1.2021, 19:28:21 - INFO - Server is running on port: 3030 
+18.1.2021, 19:29:45 - DEBUG - auth.service - signup with username: mosh, fullname: moshe malka (sid: e3q3LIO6V1SGvS00kGyP8vVj8BcSuSS_)
+18.1.2021, 19:29:45 - DEBUG - auth.route - new account created: {"username":"mosh","password":"$2b$10$sdihtLNhsi60sTy/1rP.jeAUIa8Jre2plnaa0hIuSIuQsJhgMAAre","fullname":"moshe malka","score":0,"_id":"6005c589d04a6645a45963bd"} (sid: e3q3LIO6V1SGvS00kGyP8vVj8BcSuSS_)
+18.1.2021, 19:29:45 - DEBUG - auth.service - login with username: mosh (sid: e3q3LIO6V1SGvS00kGyP8vVj8BcSuSS_)
+18.1.2021, 19:32:40 - DEBUG - auth.service - signup with username: adididididid, fullname: adi  adidi (sid: e3q3LIO6V1SGvS00kGyP8vVj8BcSuSS_)
+18.1.2021, 19:32:41 - DEBUG - auth.route - new account created: {"username":"adididididid","password":"$2b$10$jj9vuFl7x4kzq9edxtwEdeC.XjIW0uxDAObOMmLUVYMyYr0R13SoG","fullname":"adi  adidi","score":0,"_id":"6005c638d04a6645a45963be"} (sid: e3q3LIO6V1SGvS00kGyP8vVj8BcSuSS_)
+18.1.2021, 19:32:41 - DEBUG - auth.service - login with username: adididididid (sid: e3q3LIO6V1SGvS00kGyP8vVj8BcSuSS_)
+18.1.2021, 19:49:06 - DEBUG - auth.service - login with username: mmts12@gmail.com (sid: kjv9bVFV1Y-iVymQKXIan6w3TvmOsNP_)
+18.1.2021, 19:49:45 - DEBUG - auth.service - login with username: mmts12@gmail.com (sid: IHZFwkk94mIHuTQHLFvHShdSBX5VLxR0)
+18.1.2021, 19:52:26 - INFO - Server is running on port: 3030 
+18.1.2021, 19:53:28 - DEBUG - auth.service - login with username: mmts12@gmail.com (sid: gaN6Y2yyEYDImNVITUEoDHJqU8GjwlJ7)
+18.1.2021, 19:53:29 - ERROR - Failed to Login Invalid username or password (sid: gaN6Y2yyEYDImNVITUEoDHJqU8GjwlJ7)
+18.1.2021, 19:57:35 - INFO - Server is running on port: 3030 
+18.1.2021, 19:57:37 - INFO - Server is running on port: 3030 
+18.1.2021, 19:58:00 - DEBUG - auth.service - login with username: mmts12@gmail.com (sid: PzR5pa68XyXOjYU8jnuU1OKFuaK-w-86)
+18.1.2021, 19:58:01 - ERROR - Failed to Login Invalid username or password (sid: PzR5pa68XyXOjYU8jnuU1OKFuaK-w-86)
+18.1.2021, 19:58:32 - INFO - Server is running on port: 3030 
+18.1.2021, 19:58:37 - INFO - Server is running on port: 3030 
+18.1.2021, 19:59:25 - DEBUG - auth.service - login with username: mmts12@gmail.com (sid: 6y_QyItGrOmjCbEGzqiKR1jU8m3WbsYj)
+18.1.2021, 19:59:26 - ERROR - Failed to Login Invalid username or password (sid: 6y_QyItGrOmjCbEGzqiKR1jU8m3WbsYj)
+18.1.2021, 20:00:53 - DEBUG - auth.service - login with username: mmts12@gmail.com (sid: 6y_QyItGrOmjCbEGzqiKR1jU8m3WbsYj)
+18.1.2021, 20:07:59 - DEBUG - auth.service - login with username: mmts12@gmail.com (sid: dMrJCcgi7JvaJo8b3ym3FA4QnhqlafDd)
+18.1.2021, 20:43:16 - DEBUG - auth.service - login with username: mmts12@gmail.com (sid: wUk4GNBg9uAVHDL5odpEWPAF4YgxYYM0)
+18.1.2021, 20:43:47 - DEBUG - auth.service - login with username: mmts12@gmail.com (sid: ZfTu_zTZ3ToRvY9tfFjPPo77SCq9cvDb)
+18.1.2021, 20:43:47 - ERROR - Failed to Login Invalid username or password (sid: ZfTu_zTZ3ToRvY9tfFjPPo77SCq9cvDb)
+18.1.2021, 20:43:59 - DEBUG - auth.service - login with username: mmts12@gmail.com (sid: ZfTu_zTZ3ToRvY9tfFjPPo77SCq9cvDb)
+18.1.2021, 20:43:59 - ERROR - Failed to Login Invalid username or password (sid: ZfTu_zTZ3ToRvY9tfFjPPo77SCq9cvDb)
+18.1.2021, 20:45:44 - DEBUG - auth.service - login with username: mmts12@gmail.com (sid: ZfTu_zTZ3ToRvY9tfFjPPo77SCq9cvDb)
+18.1.2021, 20:45:44 - ERROR - Failed to Login Invalid username or password (sid: ZfTu_zTZ3ToRvY9tfFjPPo77SCq9cvDb)
+18.1.2021, 20:48:09 - DEBUG - auth.service - login with username: mmts12@gmail.com (sid: ZfTu_zTZ3ToRvY9tfFjPPo77SCq9cvDb)
+18.1.2021, 20:48:09 - ERROR - Failed to Login Invalid username or password (sid: ZfTu_zTZ3ToRvY9tfFjPPo77SCq9cvDb)
+18.1.2021, 20:57:26 - DEBUG - auth.service - login with username: mmts12@gmail.com (sid: ZfTu_zTZ3ToRvY9tfFjPPo77SCq9cvDb)
+18.1.2021, 20:57:26 - ERROR - Failed to Login Invalid username or password (sid: ZfTu_zTZ3ToRvY9tfFjPPo77SCq9cvDb)
+18.1.2021, 20:57:56 - DEBUG - auth.service - login with username: mmts12@gmail.com (sid: ZfTu_zTZ3ToRvY9tfFjPPo77SCq9cvDb)
+18.1.2021, 20:58:53 - DEBUG - auth.service - login with username: adimagori@gmail.com (sid: X3rFGPHIz5Mm2uEadUSsGO-FsMypVycD)
+18.1.2021, 21:02:22 - DEBUG - auth.service - login with username: mmts12@gmail.com (sid: LAxiHpdAYBNaDuYOSIk7nrrWeho_Yodl)
+18.1.2021, 21:02:22 - ERROR - Failed to Login Invalid username or password (sid: LAxiHpdAYBNaDuYOSIk7nrrWeho_Yodl)
