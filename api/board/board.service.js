@@ -54,6 +54,19 @@ async function add(board) {
     }
 }
 
+async function updateBoard(board) {
+    const collection = await dbService.getCollection('board');
+    const id = new ObjectId(board._id);
+    board._id = id;
+    try {
+        await collection.updateOne({ _id: ObjectId(board._id) }, { $set: board });
+        return board;
+    } catch (err) {
+        console.log(`ERROR: cannot update toy ${board._id}`);
+        throw err;
+    }
+}
+
 
 function _buildCriteria(filterBy) {
     const criteria = {}
@@ -75,7 +88,8 @@ function _buildCriteria(filterBy) {
 module.exports = {
     query,
     remove,
-    add
+    add,
+    updateBoard
 }
 
 
