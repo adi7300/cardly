@@ -37,9 +37,10 @@ async function deleteBoard(req, res) {
 
 async function updateBoard(req, res) {
     try {
+        console.log('ddddd')
         const board = req.body
         console.log('update board', req.session);
-        const savedBoard = await boardService.update(board)
+        const savedBoard = await boardService.updateBoard(board)
         res.send(savedBoard)
     } catch (err) {
         logger.error('Failed to update board', err)
