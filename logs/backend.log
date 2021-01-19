@@ -788,3 +788,26 @@
 19.1.2021, 0:05:56 - INFO - Server is running on port: 3030 
 19.1.2021, 10:51:21 - INFO - Server is running on port: 3030 
 >>>>>>> 287b43de718a101afb5819e9ce34d7995afafcdb
+1/19/2021, 12:39:44 PM - INFO - Server is running on port: 3030 
+1/19/2021, 3:58:13 PM - DEBUG - auth.service - login with username: adimagori@gmail.com (sid: nMflvMXJlYF_xSGj5Y0pYOd8SwR8vqrV)
+1/19/2021, 4:43:01 PM - INFO - Server is running on port: 3030 
+1/19/2021, 4:43:29 PM - INFO - Server is running on port: 3030 
+1/19/2021, 4:43:46 PM - INFO - Server is running on port: 3030 
+1/19/2021, 4:49:05 PM - INFO - Server is running on port: 3030 
+1/19/2021, 4:49:12 PM - INFO - Server is running on port: 3030 
+1/19/2021, 4:56:53 PM - INFO - Server is running on port: 3030 
+1/19/2021, 5:24:04 PM - INFO - Server is running on port: 3030 
+1/19/2021, 6:30:45 PM - INFO - Server is running on port: 3030 
+1/19/2021, 6:30:52 PM - INFO - Server is running on port: 3030 
+1/19/2021, 6:31:59 PM - INFO - Server is running on port: 3030 
+1/19/2021, 6:32:35 PM - INFO - Server is running on port: 3030 
+1/19/2021, 7:05:57 PM - INFO - Server is running on port: 3030 
+1/19/2021, 7:06:28 PM - INFO - Server is running on port: 3030 
+1/19/2021, 7:08:01 PM - INFO - Server is running on port: 3030 
+1/19/2021, 7:09:34 PM - INFO - Server is running on port: 3030 
+1/19/2021, 7:09:44 PM - DEBUG - auth.service - login with username: adimagori@gmail.com (sid: PglT5e64OgV9-QguATnGXyvkj2x27RWq)
+1/19/2021, 7:09:46 PM - ERROR - Failed to Login Invalid username or password (sid: PglT5e64OgV9-QguATnGXyvkj2x27RWq)
+1/19/2021, 7:09:55 PM - DEBUG - auth.service - login with username: adimagori@gmail.com (sid: PglT5e64OgV9-QguATnGXyvkj2x27RWq)
+1/19/2021, 7:10:25 PM - INFO - Server is running on port: 3030 
+1/19/2021, 7:11:13 PM - INFO - Server is running on port: 3030 
+1/19/2021, 7:11:39 PM - DEBUG - auth.service - login with username: adimagori@gmail.com (sid: wV-vOVnnAyCoZNEhVgoV6G0PITwYSTRP)

@@ -3,6 +3,7 @@ const logger = require('../../services/logger.service')
 
 async function login(req, res) {
     const { username, password } = req.body
+    console.log('loginUser is:', req.body);
     try {
         const user = await authService.login(username, password)
         req.session.user = user
@@ -29,7 +30,7 @@ async function signup(req, res) {
     }
 }
 
-async function logout(req, res){
+async function logout(req, res) {
     try {
         req.session.destroy()
         res.send({ msg: 'Logged out successfully' })

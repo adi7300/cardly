@@ -1,5 +1,3 @@
-
-
 const asyncLocalStorage = require('./als.service');
 const logger = require('./logger.service');
 
@@ -9,7 +7,6 @@ var gSocketBySessionIdMap = {}
 function emit({ type, data }) {
     gIo.emit(type, data);
 }
-
 
 function connectSockets(http, session) {
     gIo = require('socket.io')(http);
