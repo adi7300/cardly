@@ -764,3 +764,8 @@
 18.1.2021, 20:58:53 - DEBUG - auth.service - login with username: adimagori@gmail.com (sid: X3rFGPHIz5Mm2uEadUSsGO-FsMypVycD)
 18.1.2021, 21:02:22 - DEBUG - auth.service - login with username: mmts12@gmail.com (sid: LAxiHpdAYBNaDuYOSIk7nrrWeho_Yodl)
 18.1.2021, 21:02:22 - ERROR - Failed to Login Invalid username or password (sid: LAxiHpdAYBNaDuYOSIk7nrrWeho_Yodl)
+18.1.2021, 21:06:33 - INFO - Server is running on port: 3030 
+18.1.2021, 21:38:47 - INFO - Server is running on port: 3030 
+18.1.2021, 21:38:49 - INFO - Server is running on port: 3030 
+19.1.2021, 0:05:56 - INFO - Server is running on port: 3030 
+19.1.2021, 10:51:21 - INFO - Server is running on port: 3030 
