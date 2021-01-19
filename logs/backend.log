@@ -787,7 +787,76 @@
 18.1.2021, 21:38:49 - INFO - Server is running on port: 3030 
 19.1.2021, 0:05:56 - INFO - Server is running on port: 3030 
 19.1.2021, 10:51:21 - INFO - Server is running on port: 3030 
+<<<<<<< HEAD
+19.1.2021, 12:33:22 - INFO - Server is running on port: 3030 
+19.1.2021, 13:04:08 - INFO - Server is running on port: 3030 
+19.1.2021, 13:37:48 - DEBUG - auth.service - login with username: mmts12@gmail.com (sid: DBJdCYbnA29ygFXu8isOeeDYy7sTEIhd)
+19.1.2021, 18:03:22 - ERROR - Failed to get board | {} (sid: GAV5QC4aFwR07ILm504BrgSdFee1bOcp)
+19.1.2021, 18:03:22 - ERROR - Failed to get board | {} (sid: GAV5QC4aFwR07ILm504BrgSdFee1bOcp)
+19.1.2021, 18:03:30 - ERROR - Failed to get board | {} (sid: GAV5QC4aFwR07ILm504BrgSdFee1bOcp)
+19.1.2021, 18:03:32 - ERROR - Failed to get board | {} (sid: GAV5QC4aFwR07ILm504BrgSdFee1bOcp)
+19.1.2021, 18:03:32 - ERROR - Failed to get board | {} (sid: GAV5QC4aFwR07ILm504BrgSdFee1bOcp)
+19.1.2021, 18:05:03 - INFO - Server is running on port: 3030 
+19.1.2021, 18:05:28 - INFO - Server is running on port: 3030 
+19.1.2021, 18:05:51 - INFO - Server is running on port: 3030 
+19.1.2021, 18:05:58 - INFO - Server is running on port: 3030 
+19.1.2021, 18:08:17 - INFO - Server is running on port: 3030 
+19.1.2021, 18:08:18 - INFO - Server is running on port: 3030 
+19.1.2021, 18:08:23 - INFO - Server is running on port: 3030 
+19.1.2021, 18:09:37 - INFO - Server is running on port: 3030 
+19.1.2021, 18:15:00 - INFO - Server is running on port: 3030 
+19.1.2021, 18:15:12 - INFO - Server is running on port: 3030 
+19.1.2021, 18:15:21 - INFO - Server is running on port: 3030 
+19.1.2021, 18:15:27 - INFO - Server is running on port: 3030 
+19.1.2021, 18:16:09 - INFO - Server is running on port: 3030 
+19.1.2021, 18:16:23 - INFO - Server is running on port: 3030 
+19.1.2021, 18:19:02 - INFO - Server is running on port: 3030 
+19.1.2021, 18:19:08 - ERROR - Failed to get board | {} (sid: Ep5YALZYx4IR8n7bU8GP2FelUFhiVMdN)
+19.1.2021, 18:19:09 - ERROR - Failed to get board | {} (sid: Ep5YALZYx4IR8n7bU8GP2FelUFhiVMdN)
+19.1.2021, 18:19:12 - ERROR - Failed to get board | {} (sid: kr35FcCetIYDRwF3ZEvOsvnaK9cTHnxx)
+19.1.2021, 18:19:59 - INFO - Server is running on port: 3030 
+19.1.2021, 18:20:06 - ERROR - Failed to get board | {} (sid: ZvsluTlK0BJZmoVzUWp4X9StQuz1ycBI)
+19.1.2021, 18:20:07 - ERROR - Failed to get board | {} (sid: ZvsluTlK0BJZmoVzUWp4X9StQuz1ycBI)
+19.1.2021, 18:20:07 - ERROR - Failed to get board | {} (sid: ZvsluTlK0BJZmoVzUWp4X9StQuz1ycBI)
+19.1.2021, 18:21:08 - INFO - Server is running on port: 3030 
+19.1.2021, 18:21:16 - ERROR - Failed to get board | {} (sid: XtIh-taJfaFE2Do2wtByk9yex1L0HHdl)
+19.1.2021, 18:23:08 - ERROR - Failed to get board | {} (sid: XtIh-taJfaFE2Do2wtByk9yex1L0HHdl)
+19.1.2021, 18:23:09 - ERROR - Failed to get board | {} (sid: XtIh-taJfaFE2Do2wtByk9yex1L0HHdl)
+19.1.2021, 18:24:50 - ERROR - Failed to get board | {} (sid: XtIh-taJfaFE2Do2wtByk9yex1L0HHdl)
+19.1.2021, 18:25:07 - ERROR - Failed to get board | {} (sid: XtIh-taJfaFE2Do2wtByk9yex1L0HHdl)
+19.1.2021, 18:25:24 - ERROR - Failed to get board | {} (sid: XtIh-taJfaFE2Do2wtByk9yex1L0HHdl)
+19.1.2021, 18:25:47 - ERROR - Failed to get board | {} (sid: XtIh-taJfaFE2Do2wtByk9yex1L0HHdl)
+19.1.2021, 18:25:51 - ERROR - Failed to get board | {} (sid: XtIh-taJfaFE2Do2wtByk9yex1L0HHdl)
+19.1.2021, 18:25:51 - ERROR - Failed to get board | {} (sid: XtIh-taJfaFE2Do2wtByk9yex1L0HHdl)
+19.1.2021, 18:26:54 - INFO - Server is running on port: 3030 
+19.1.2021, 18:27:11 - ERROR - Failed to get board | {} (sid: 9tSpiqxqF27ibD5LtMLRNRDBKZjuO10K)
+19.1.2021, 18:27:12 - ERROR - Failed to get board | {} (sid: GmZr8drBX_FGAkm_T5jVHqvSNsZW--D1)
+19.1.2021, 18:28:07 - INFO - Server is running on port: 3030 
+19.1.2021, 18:28:39 - ERROR - Failed to get board | {} (sid: WBbAgjmHazfdFoV8Kdyaa2X7nYr3Tu0G)
+19.1.2021, 18:28:40 - ERROR - Failed to get board | {} (sid: 0WpRVDEvJYf8ycfg6AdgIc--SfqoNSWX)
+19.1.2021, 18:30:05 - INFO - Server is running on port: 3030 
+19.1.2021, 18:30:11 - ERROR - Failed to get board | {} (sid: FQNU-lB9UJTpwm7fy0D8ET-m4eqBGwlw)
+19.1.2021, 18:30:11 - ERROR - Failed to get board | {} (sid: InJFNAFFOvov11LT_lKS8Lf0oCXJ7Cie)
+19.1.2021, 18:33:14 - INFO - Server is running on port: 3030 
+19.1.2021, 18:33:20 - ERROR - Failed to get board | {} (sid: M9ww_fQc1t8JZq6wcmyqdacXfOJ2rIQt)
+19.1.2021, 18:33:21 - ERROR - Failed to get board | {} (sid: gtlRkFlMsRn8XHwM3RjPRhGWEREOES2z)
+19.1.2021, 18:35:32 - INFO - Server is running on port: 3030 
+19.1.2021, 18:35:48 - ERROR - Failed to get board | {} (sid: lbILxCKxSxhB9BMA6h96n3GH2DDMkVSg)
+19.1.2021, 18:35:49 - ERROR - Failed to get board | {} (sid: 5j98UXGpJ6dUQZeJCDbY__uVhIus8Gbw)
+19.1.2021, 18:36:15 - INFO - Server is running on port: 3030 
+19.1.2021, 18:36:21 - ERROR - Failed to get board | {} (sid: 1VCRS6g_cyDRdyzWtwvA49sBDwkemHvb)
+19.1.2021, 18:36:21 - ERROR - Failed to get board | {} (sid: E20zlbjBiZX_n3oirsgXTTl63LDpHRPG)
+19.1.2021, 18:37:11 - INFO - Server is running on port: 3030 
+19.1.2021, 18:38:39 - INFO - Server is running on port: 3030 
+19.1.2021, 18:38:44 - ERROR - Failed to get board | {} (sid: UC-sg0yVtQsPdB8-QBFx7EaV7FaL9yLR)
+19.1.2021, 18:38:44 - ERROR - Failed to get board | {} (sid: dGn52plNofCmIYEGAO550VGRfDYIyDGP)
+19.1.2021, 18:38:46 - ERROR - Failed to get board | {} (sid: dGn52plNofCmIYEGAO550VGRfDYIyDGP)
+19.1.2021, 18:39:30 - INFO - Server is running on port: 3030 
+19.1.2021, 18:39:46 - INFO - Server is running on port: 3030 
+19.1.2021, 19:11:42 - INFO - Server is running on port: 3030 
+=======
 >>>>>>> 287b43de718a101afb5819e9ce34d7995afafcdb
+<<<<<<< HEAD
 1/19/2021, 12:39:44 PM - INFO - Server is running on port: 3030 
 1/19/2021, 3:58:13 PM - DEBUG - auth.service - login with username: adimagori@gmail.com (sid: nMflvMXJlYF_xSGj5Y0pYOd8SwR8vqrV)
 1/19/2021, 4:43:01 PM - INFO - Server is running on port: 3030 
@@ -811,3 +880,6 @@
 1/19/2021, 7:10:25 PM - INFO - Server is running on port: 3030 
 1/19/2021, 7:11:13 PM - INFO - Server is running on port: 3030 
 1/19/2021, 7:11:39 PM - DEBUG - auth.service - login with username: adimagori@gmail.com (sid: wV-vOVnnAyCoZNEhVgoV6G0PITwYSTRP)
+=======
+>>>>>>> 0df228b78b044f7e202b3a008dcb0c3389032228
+>>>>>>> a76ebfa038e81163ca8cb0194bfa74264592f7a4

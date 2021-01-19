@@ -6,7 +6,7 @@ const boardService = require('./board.service')
 
 async function getBoard(req, res) {
     try {
-        const board = await boardService.getById(req.params.boardId)
+        const board = await boardService.getById(req.params.id)
         res.send(board)
     } catch (err) {
         logger.error('Failed to get board', err)
@@ -38,7 +38,6 @@ async function deleteBoard(req, res) {
 async function updateBoard(req, res) {
     try {
         const board = req.body
-        console.log('update board req.session', req.session.user);
         const savedBoard = await boardService.updateBoard(board)
         res.send(savedBoard)
     } catch (err) {

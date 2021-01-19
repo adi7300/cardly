@@ -67,6 +67,17 @@ async function updateBoard(board) {
     }
 }
 
+async function getById(boardId) {
+    const collection = await dbService.getCollection('board');
+    try {
+        const board = await collection.findOne({ '_id': ObjectId(boardId) });
+        return board;
+    } catch (err) {
+        console.log(`ERROR: cannot find board ${boardId}`);
+        throw err;
+    }
+}
+
 
 function _buildCriteria(filterBy) {
     const criteria = {}
@@ -89,7 +100,8 @@ module.exports = {
     query,
     remove,
     add,
-    updateBoard
+    updateBoard,
+    getById
 }
 
 
