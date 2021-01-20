@@ -22,12 +22,13 @@ async function query(filterBy = {}) {
 
 async function remove(boardId) {
     try {
-        const store = asyncLocalStorage.getStore()
-        const { userId, isAdmin } = store
+        // const store = asyncLocalStorage.getStore()
+        // const { userId, isAdmin } = store
         const collection = await dbService.getCollection('board')
         // remove only if user is owner/admin
+
         const query = { _id: ObjectId(boardId) }
-        if (!isAdmin) query.byUserId = ObjectId(userId)
+        // if (!isAdmin) query.byUserId = ObjectId(userId)
         await collection.deleteOne(query)
         // return await collection.deleteOne({ _id: ObjectId(boardId), byUserId: ObjectId(userId) })
     } catch (err) {
@@ -40,14 +41,18 @@ async function remove(boardId) {
 async function add(board) {
     try {
         // peek only updatable fields!
-        const boardToAdd = {
-            byUserId: ObjectId(board.byUserId),
-            aboutUserId: ObjectId(board.aboutUserId),
-            txt: board.txt
-        }
+        // board.createdBy._id = ObjectId(board)
+        console.log('board', board)
+        // let boardToAdd = board
+        // boardToAdd = {
+        //     createdBy: ObjectId(board.createdBy),
+        //     // aboutUserId: ObjectId(board.aboutUserId),
+        //     // txt: board.txt
+        // }
+        console.log('board created')
         const collection = await dbService.getCollection('board')
-        await collection.insertOne(boardToAdd)
-        return boardToAdd;
+        await collection.insertOne(board)
+        return board;
     } catch (err) {
         logger.error('cannot insert board', err)
         throw err

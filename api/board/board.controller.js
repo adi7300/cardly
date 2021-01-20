@@ -49,11 +49,13 @@ async function updateBoard(req, res) {
 
 async function addBoard(req, res) {
     try {
+        console.log('user', req.session.user)
         var board = req.body
-        board.byUserId = req.session.user._id
+        board.createdBy = (!req.session.user) ? board.createdBy.fullname = 'Guest' : req.session.user
         board = await boardService.add(board)
-        board.byUser = req.session.user
-        board.aboutUser = await userService.getById(board.aboutUserId)
+
+        // board.byUser = req.session.user
+        // board.aboutUser = await userService.getById(board.aboutUserId)
         res.send(board)
 
     } catch (err) {
