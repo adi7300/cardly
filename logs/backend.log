@@ -959,3 +959,8 @@
 20.1.2021, 11:29:52 - INFO - Server is running on port: 3030 
 20.1.2021, 11:38:25 - INFO - Server is running on port: 3030 
 20.1.2021, 11:38:49 - INFO - Server is running on port: 3030 
+20.1.2021, 13:13:06 - INFO - Server is running on port: 3030 
+20.1.2021, 20:48:42 - DEBUG - auth.service - login with username: mmts12@gmail.com (sid: JKaHhEsUY5Nra6P108t7prxuuyD2ni9m)
+20.1.2021, 20:56:54 - DEBUG - auth.service - login with username: mmts12@gmail.com (sid: wL6rm3KuuJfRsnXPIymEsbh4yCedtwmJ)
+20.1.2021, 21:00:24 - DEBUG - auth.service - login with username: mmts12@gmail.com (sid: wL6rm3KuuJfRsnXPIymEsbh4yCedtwmJ)
+21.1.2021, 11:33:27 - INFO - Server is running on port: 3030 
