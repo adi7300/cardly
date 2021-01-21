@@ -9,8 +9,15 @@ function emit({ type, data }) {
 }
 
 function connectSockets(http, session) {
-    gIo = require('socket.io')(http);
 
+    gIo = require("socket.io")(http, {
+        cors: {
+            origin: "*",
+            methods: ["GET", "POST", "DELETE", "PUT"],
+            allowedHeaders: ["my-custom-header"],
+            credentials: true
+        }
+    });
     const sharedSession = require('express-socket.io-session');
 
     gIo.use(sharedSession(session, {
@@ -25,19 +32,33 @@ function connectSockets(http, session) {
                 gSocketBySessionIdMap[socket.handshake.sessionID] = null
             }
         })
-        socket.on('chat topic', topic => {
-            if (socket.myTopic) {
-                socket.leave(socket.myTopic)
+
+        //initial connection
+        socket.on('join board', boardId => {
+            if (socket.currBoard) {
+                socket.leave(socket.currBoard)
             }
-            socket.join(topic)
+            socket.join(boardId)
             // logger.debug('Session ID is', socket.handshake.sessionID)
-            socket.myTopic = topic
+            socket.currBoard = boardId
+            console.log('Joining board', socket.currBoard)
         })
-        socket.on('chat newMsg', msg => {
+        //topic =board._id
+        //currBoard = user current board
+
+        // socket.on('chat newMsg', msg => {
+        //     // emits to all sockets:
+        //     // gIo.emit('chat addMsg', msg)
+        //     // emits only to sockets in the same room
+        //     gIo.to(socket.currBoard).emit('chat addMsg', msg)
+        // })
+        socket.on('update board', board => {
+            console.log('******** board is here!!!!! ***********');
+            console.log('socket.currBoard is:', socket.currBoard);
             // emits to all sockets:
             // gIo.emit('chat addMsg', msg)
             // emits only to sockets in the same room
-            gIo.to(socket.myTopic).emit('chat addMsg', msg)
+            socket.to(socket.currBoard).emit('update board', board)
         })
 
     })
