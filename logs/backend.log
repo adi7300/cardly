@@ -1008,7 +1008,35 @@
 1/21/2021, 12:45:42 PM - INFO - Server is running on port: 3030 
 1/21/2021, 12:45:51 PM - INFO - Server is running on port: 3030 
 1/21/2021, 2:50:43 PM - INFO - Server is running on port: 3030 
+<<<<<<< HEAD
+1/21/2021, 8:41:57 PM - INFO - Server is running on port: 3030 
+1/22/2021, 11:22:26 AM - INFO - Server is running on port: 3030 
+1/23/2021, 3:33:54 PM - DEBUG - auth.service - login with username: adimagori@gmail.com (sid: QpfsAjiUfuSiJqrgLc0zXvYQgfQJ7r1x)
+1/23/2021, 10:56:59 PM - INFO - Server is running on port: 3030 
+1/23/2021, 11:20:40 PM - DEBUG - auth.service - login with username: adimagori@gmail.com (sid: yplpT6eQ1qzBi5aVWito3m8OdLMv4xe5)
+1/24/2021, 10:29:42 AM - INFO - Server is running on port: 3030 
+1/24/2021, 10:33:01 AM - INFO - Server is running on port: 3030 
+1/24/2021, 11:11:34 AM - INFO - Server is running on port: 3030 
+1/24/2021, 1:18:31 PM - INFO - Server is running on port: 3030 
+1/24/2021, 3:54:59 PM - DEBUG - auth.service - login with username: adisiera@gmail.com (sid: szmpK6ABLZL69nP_LeSTgFcqOu4DUcqq)
+1/24/2021, 4:03:59 PM - INFO - Server is running on port: 3030 
+1/25/2021, 9:08:54 AM - INFO - Server is running on port: 3030 
+1/25/2021, 12:17:08 PM - INFO - Server is running on port: 3030 
+1/25/2021, 12:18:30 PM - INFO - Server is running on port: 3030 
+1/25/2021, 2:18:58 PM - INFO - Server is running on port: 3030 
+1/25/2021, 3:52:42 PM - DEBUG - auth.service - login with username: adimagori@gmail.com (sid: hVNJb7CTiRLgJ6BWbhmiMVtddEPTbeva)
+1/25/2021, 3:54:15 PM - DEBUG - auth.service - login with username: adimagori@gmail.com (sid: ETVwkmBWWah6ATuSI8B5qTEbd52xxHs9)
+1/25/2021, 3:55:07 PM - DEBUG - auth.service - login with username: adimagori@gmail.com (sid: 2s0oltDmEcoSCu4PobSxPLaeRM2WDTLT)
+1/25/2021, 3:58:26 PM - DEBUG - auth.service - login with username: adimagori@gmail.com (sid: HiMlIGz4kjKubb_Hl9vW3tgbd5GziRkl)
+1/25/2021, 4:02:23 PM - INFO - Server is running on port: 3030 
+1/25/2021, 4:02:36 PM - DEBUG - auth.service - login with username: adimagori@gmail.com (sid: wAnizmJ5C4w_OZyEdzMdxNy58vo3zQu4)
+1/25/2021, 4:02:38 PM - DEBUG - auth.service - login with username: adimagori@gmail.com (sid: H53F_iuvQddzZaAXjVwWRvbuKQMERfjt)
+1/25/2021, 4:13:32 PM - INFO - Server is running on port: 3030 
+1/25/2021, 4:14:15 PM - INFO - Server is running on port: 3030 
+1/25/2021, 4:14:41 PM - DEBUG - auth.service - login with username: adimagori@gmail.com (sid: j3K2LBr2EqEDfLbu1E17BVviG1YwmJ4m)
+=======
 >>>>>>> d4c1163d4929515db5a826218997d8a6e2b35988
+<<<<<<< HEAD
 21.1.2021, 20:56:08 - INFO - Server is running on port: 3030 
 21.1.2021, 20:59:21 - INFO - Server is running on port: 3030 
 21.1.2021, 21:32:35 - INFO - Server is running on port: 3030 
@@ -1028,3 +1056,6 @@
 24.1.2021, 9:49:27 - INFO - Server is running on port: 3030 
 25.1.2021, 9:12:21 - INFO - Server is running on port: 3030 
 25.1.2021, 14:10:33 - INFO - Server is running on port: 3030 
+=======
+>>>>>>> 3d9566b7d990a913fa1641aa35bb0052cd94ec3f
+>>>>>>> 99f59a0b868daa39ecccf46f0fe008b35ed7adbe

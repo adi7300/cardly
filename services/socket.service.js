@@ -32,6 +32,15 @@ function connectSockets(http, session) {
                 gSocketBySessionIdMap[socket.handshake.sessionID] = null
             }
         })
+        //user connection
+        socket.on('user joined', userId => {
+            if (socket.currentUser) {
+                socket.leave(socket.currentUser)
+            }
+            socket.join(userId)
+            socket.currUser = userId
+            console.log('+++User joined+++', socket.currUser)
+        })
 
         //initial connection
         socket.on('join board', boardId => {
@@ -39,24 +48,11 @@ function connectSockets(http, session) {
                 socket.leave(socket.currBoard)
             }
             socket.join(boardId)
-            // logger.debug('Session ID is', socket.handshake.sessionID)
             socket.currBoard = boardId
             console.log('Joining board', socket.currBoard)
         })
-        //topic =board._id
-        //currBoard = user current board
 
-        // socket.on('chat newMsg', msg => {
-        //     // emits to all sockets:
-        //     // gIo.emit('chat addMsg', msg)
-        //     // emits only to sockets in the same room
-        //     gIo.to(socket.currBoard).emit('chat addMsg', msg)
-        // })
         socket.on('update board', board => {
-            console.log('******** board is here!!!!! ***********');
-            console.log('socket.currBoard is:', socket.currBoard);
-            // emits to all sockets:
-            // gIo.emit('chat addMsg', msg)
             // emits only to sockets in the same room
             socket.to(socket.currBoard).emit('update board', board)
         })
