@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.d51cf69e.chunk.css",
-    "main.js": "/static/js/main.0f0c239d.chunk.js",
-    "main.js.map": "/static/js/main.0f0c239d.chunk.js.map",
+    "main.css": "/static/css/main.fd57358e.chunk.css",
+    "main.js": "/static/js/main.2602c0d0.chunk.js",
+    "main.js.map": "/static/js/main.2602c0d0.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.b0bf76b6.js",
     "runtime-main.js.map": "/static/js/runtime-main.b0bf76b6.js.map",
     "static/js/2.7157fb58.chunk.js": "/static/js/2.7157fb58.chunk.js",
@@ -12,14 +12,14 @@
     "index.html": "/index.html",
     "service-worker.js": "/service-worker.js",
     "service-worker.js.map": "/service-worker.js.map",
-    "static/css/main.d51cf69e.chunk.css.map": "/static/css/main.d51cf69e.chunk.css.map",
+    "static/css/main.fd57358e.chunk.css.map": "/static/css/main.fd57358e.chunk.css.map",
     "static/js/2.7157fb58.chunk.js.LICENSE.txt": "/static/js/2.7157fb58.chunk.js.LICENSE.txt",
     "static/media/main.scss": "/static/media/Ubuntu-Regular.fbdecfce.ttf"
   },
   "entrypoints": [
     "static/js/runtime-main.b0bf76b6.js",
     "static/js/2.7157fb58.chunk.js",
-    "static/css/main.d51cf69e.chunk.css",
-    "static/js/main.0f0c239d.chunk.js"
+    "static/css/main.fd57358e.chunk.css",
+    "static/js/main.2602c0d0.chunk.js"
   ]
 }
