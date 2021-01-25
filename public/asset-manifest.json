@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.fd57358e.chunk.css",
+    "main.css": "/static/css/main.5b3ab8be.chunk.css",
     "main.js": "/static/js/main.2602c0d0.chunk.js",
     "main.js.map": "/static/js/main.2602c0d0.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.b0bf76b6.js",
@@ -12,14 +12,14 @@
     "index.html": "/index.html",
     "service-worker.js": "/service-worker.js",
     "service-worker.js.map": "/service-worker.js.map",
-    "static/css/main.fd57358e.chunk.css.map": "/static/css/main.fd57358e.chunk.css.map",
+    "static/css/main.5b3ab8be.chunk.css.map": "/static/css/main.5b3ab8be.chunk.css.map",
     "static/js/2.7157fb58.chunk.js.LICENSE.txt": "/static/js/2.7157fb58.chunk.js.LICENSE.txt",
     "static/media/main.scss": "/static/media/Ubuntu-Regular.fbdecfce.ttf"
   },
   "entrypoints": [
     "static/js/runtime-main.b0bf76b6.js",
     "static/js/2.7157fb58.chunk.js",
-    "static/css/main.fd57358e.chunk.css",
+    "static/css/main.5b3ab8be.chunk.css",
     "static/js/main.2602c0d0.chunk.js"
   ]
 }
