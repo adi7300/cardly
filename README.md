@@ -7,4 +7,4 @@ Html, Scss, ReactJs , Redux State Managment, NodeJs ,Rest Api, MongoDB Atlas
 
 Link To project: https://app-cardly.herokuapp.com/#/
 
-Backend repo: https://github.com/adi7300/cardly-node
+Frontend repo: https://github.com/mmts12/Cardly
