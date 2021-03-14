@@ -1,4 +1,4 @@
-Cardly
+<strong>Cardly</strong></br>
 A final project inspired by Trello done at Coding Academy bootcamp
 
 Technologies:
